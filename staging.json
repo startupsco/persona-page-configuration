@@ -1,0 +1,431 @@
+[
+  {
+    "page": {
+      "title": "Virtual Assistants for Real Estate Agents",
+      "slug": "real-estate-agents"
+    },
+    "blocks": [
+      {
+        "type": "PersonaHero",
+        "props": {
+          "desktopBackgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/hero_bg_left_gradient.png",
+          "mobileBackgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/hero_bg_mobile_top_gradient.png",
+          "title": {
+            "text": "The Big Header Goes here",
+            "color": "white",
+            "size": "large"
+          },
+          "subtitle": {
+            "text": "The little paragraph text goes here.",
+            "color": "blueLight",
+            "size": "xlarge"
+          },
+          "cta1": {
+            "text": "Get It Started!",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueLightGhost",
+            "to": "#freeConsultation"
+          }
+        }
+      },
+      {
+        "type": "HappyQuote",
+        "props": {
+          "color": "tan",
+          "quote": {
+            "text": "A quote of a really happy persona claiming this was the best choice they ever made.",
+            "color": "grayDark",
+            "size": "xlarge",
+            "attribution": "Some Persona"
+          }
+        }
+      },
+      {
+        "type": "BusyPersonas",
+        "props": {
+          "title": "Zirtual Works for Busy Personas",
+          "subtitle": "Explain there are three steps in a clear contextual way",
+          "color": "white",
+          "cards": [
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/pick_your_plan.svg",
+              "title": {
+                "text": "Pick Your Plan",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We'll match you with a VA based on your time zone and custom preferences",
+                "color": "black",
+                "size": "medium"
+              }
+            },
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/delegate_tasks.svg",
+              "title": {
+                "text": "Delegate Your Tasks",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "Then we’ll review your needs, systems and preference so we’re up and running Day 1",
+                "color": "black",
+                "size": "medium"
+              }
+            },
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/goal_achieved.svg",
+              "title": {
+                "text": "Persona Goal Achieved",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We’ll sync to your preferred workflow. Prefer texting? Great.  Live through email? Done.",
+                "color": "black",
+                "size": "medium"
+              }
+            }
+          ],
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "#freeConsultation"
+          }
+        }
+      },
+      {
+        "type": "PersonaIsHard",
+        "props": {
+          "color": "blue",
+          "backgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/collage_bg.png",
+          "backgroundSize": "cover",
+          "backgroundPosition": "50% 0",
+          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min.",
+          "subtitle": {
+            "text": "We understand because we are empathetics.",
+            "color": "blueLight",
+            "size": "xlarge"
+          },
+          "title": "Being a Persona Is Hard",
+          "quote": {
+            "person": {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+              "name": "Persona Name",
+              "title": "Title",
+              "text": "This is great!",
+              "company": "Zirtual Client"
+            },
+            "text": "Zirtual Assistants are the best things I have",
+            "size": "xlarge"
+          }
+        }
+      },
+      {
+        "type": "FavoriteFeature",
+        "props": {
+          "color": "tan",
+          "title": { "text": "Our Personas’ Favorite Features" },
+          "featuresLink": {
+            "text": "See all of our amazing features",
+            "color": "blue",
+            "href": "#features"
+          },
+          "features": [
+            {
+              "imageUrl": "",
+              "text": "Service example is described in context of persona so they connect the dots1."
+            },
+            {
+              "imageUrl": "",
+              "text": "Service example is described in context of persona so they connect the dots2."
+            },
+            {
+              "imageUrl": "",
+              "text": "Service example is described in context of persona so they connect the dots3."
+            },
+            {
+              "imageUrl": "",
+              "text": "Service example is described in context of persona so they connect the dots4."
+            },
+            {
+              "imageUrl": "",
+              "text": "Service example is described in context of persona so they connect the dots5."
+            },
+            {
+              "imageUrl": "",
+              "text": "Service example is described in context of persona so they connect the dots6."
+            }
+          ],
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "#freeConsultation"
+          }
+        }
+      },
+      {
+        "type": "PerfectAssistants",
+        "props": {
+          "color": "tanDark",
+          "assistant1": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/assistant-1.png"
+          },
+          "assistant2": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/assistant-2.png"
+          },
+          "heading": {
+            "text": {
+              "smallScreen": "Our Virtual Assistants are a Perfect Fit For This Persona’s Needs.",
+              "largeScreen": "Our Virtual Assistants are<br/>a Perfect Fit For This<br/>Persona’s Needs."
+            }
+          },
+          "bullets": {
+            "icon": {
+              "color": "bluePastel",
+              "shape": "ion-android-checkbox-outline",
+              "size": "3xsmall"
+            },
+            "items": [
+              "Something contextual to ZA Skills for Persona",
+              "Something else contextual to ZA Skills for Persona",
+              "College Educated",
+              "US Based + TimeZone",
+              "Native English Speaking"
+            ]
+          },
+          "cta": {
+            "text": "Find Your Assistant",
+            "color": "green",
+            "to": "#findYourAssistant"
+          }
+        }
+      },
+      {
+        "type": "TopFiveThings",
+        "props": {
+          "color": "white",
+          "heading": "The Top 5 Things to Consider When You're a Persona",
+          "paragraph": "Anim quis quis commodo duis irure tempor minim amet officia. Esse cupidatat magna tempor aute nulla tempor deserunt dolor aliqua. Sint in reprehenderit quis ad ut ullamco consectetur et excepteur quis occaecat.",
+          "ebook": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/ebook-graphic.png"
+          },
+          "bullets": {
+            "icon": {
+              "color": "bluePastel",
+              "shape": "ion-android-checkbox-outline",
+              "size": "3xsmall"
+            },
+            "items": [
+              "What you’re going to learn as a persona",
+              "A mistake you’ll avoid if you choose the right VA",
+              "A fast way to get back xx hours a month",
+              "How to do this better than your peers",
+              "The #1 reason to use a Virtual Assistant"
+            ]
+          }
+        }
+      },
+      {
+        "type": "ZirtualDifference",
+        "props": {
+          "color": "tan",
+          "title": "What Makes Zirtual Different",
+
+          "differences": [
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
+              "title": "No Contracts, Cancel Anytime",
+              "text": "Minim proident laborum sunt esse excepteur nulla fugiat dolore ea proident aute. Ipsum incididunt ut elit irure consectetur aliquip laborum et ex veniam consequat.",
+              "size": "3xsmall"
+            },
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
+              "title": "No Contracts, Cancel Anytime 2",
+              "text": "Minim proident laborum sunt esse excepteur nulla fugiat dolore ea proident aute. Ipsum incididunt ut elit irure consectetur aliquip laborum et ex veniam consequat.",
+              "size": "3xsmall"
+            },
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
+              "title": "No Contracts, Cancel Anytime 3",
+              "text": "Minim proident laborum sunt esse excepteur nulla fugiat dolore ea proident aute. Ipsum incididunt ut elit irure consectetur aliquip laborum et ex veniam consequat.",
+              "size": "3xsmall"
+            }
+          ],
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "#freeConsultation"
+          }
+        }
+      },
+
+      {
+        "type": "AlternatingQuoteStack",
+        "props": {
+          "valuePropositions": [
+            {
+              "title": "Help them understand their current approach to managing",
+              "paragraph": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident.",
+              "quote": {
+                "person": {
+                  "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                  "name": "Persona Name",
+                  "title": "Title",
+                  "text": "This is great!",
+                  "company": "Zirtual Client"
+                },
+                "text": "Sint pariatur enim laborum commodo duis est eiusmod consequat tempor do cillum. Minim pariatur non fugiat sunt officia ipsum voluptate ipsum officia mollit ea nisi. Et duis exercitation minim adipisicing occaecat veniam magna.",
+
+                "size": "xlarge"
+              }
+            },
+            {
+              "title": "We then expose the dysfunction and introduce a new idea",
+              "paragraph": "Lorem dolore incididunt amet fugiat in nostrud ut consectetur fugiat consequat commodo. Et consectetur in voluptate commodo consequat. Amet excepteur commodo dolore nisi pariatur.",
+              "quote": {
+                "person": {
+                  "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                  "name": "Persona Name",
+                  "title": "Title",
+                  "text": "This is great!",
+                  "company": "Zirtual Client"
+                },
+                "text": "Cupidatat sint voluptate in pariatur reprehenderit adipisicing commodo cupidatat cupidatat. Mollit proident occaecat eu do amet irure consectetur dolor esse aliquip exercitation officia. Nulla amet ex laborum qui sunt anim.",
+                "size": "xlarge"
+              }
+            },
+            {
+              "title": "Then we tell them about what they'll get for the transformation",
+              "paragraph": "Labore enim deserunt adipisicing anim amet proident. Magna reprehenderit fugiat proident adipisicing ut exercitation. Minim excepteur mollit qui ex qui officia velit do velit ullamco deserunt id.",
+              "quote": {
+                "person": {
+                  "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                  "name": "Persona Name",
+                  "title": "Title",
+                  "text": "This is great!",
+                  "company": "Zirtual Client"
+                },
+                "text": "Occaecat nulla in nostrud magna qui sunt esse minim nulla. Eu aliquip eiusmod enim occaecat occaecat reprehenderit labore ad excepteur. In sunt do cillum elit nisi minim amet esse.",
+                "size": "xlarge"
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "type": "FinalRequest",
+        "props": {
+          "color": "white",
+          "title": "Make a Final Request for Action",
+          "subtitle": {
+            "text": "Remind them of the Pros and Cons of Taking Action",
+            "size": "xlarge",
+            "color": "grayDark"
+          },
+          "paragraph": {
+            "text": "Lorem culpa laborum laborum nisi irure laboris elit. Quis ex duis duis enim. Nisi sunt enim voluptate sunt Lorem nostrud irure ea incididunt. Labore minim eiusmod excepteur irure incididunt reprehenderit. Fugiat commodo do commodo reprehenderit cillum cillum anim amet. Fugiat labore excepteur dolore ea laboris proident aliqua duis in ut.",
+            "size": "xlarge",
+            "color": "grayDark"
+          }
+        }
+      },
+      {
+        "type": "SideBySideCTA",
+        "props": {
+          "block1": {
+            "color": "#3b79bf",
+            "heading": {
+              "text": {
+                "smallScreen": "Explore Plans and Pricing",
+                "largeScreen": "Explore Plans <br />and Pricing"
+              },
+              "color": "white"
+            },
+            "subtitle": {
+              "text": "Remind them of the Pros and Cons of Taking Action",
+              "color": "white",
+              "size": "xlarge"
+            },
+            "cta": {
+              "text": "Pick Your Plan",
+              "color": "green",
+              "to": "#pickYourPlan"
+            },
+
+            "bullets": {
+              "color": "white",
+              "icon": {
+                "color": "white",
+                "shape": "ion-android-checkbox-outline",
+                "size": "3xsmall"
+              },
+              "items": [
+                "Something contextual to ZA Skills for Persona",
+                "Something else contextual to ZA Skills for Persona",
+                "College Educated",
+                "US Based + TimeZone"
+              ]
+            }
+          },
+
+          "block2": {
+            "color": "#c2e1ff",
+            "heading": {
+              "text": {
+                "smallScreen": "Book a Consultation",
+                "largeScreen": "Book a <br/>Consultation"
+              },
+              "color": "blue"
+            },
+            "subtitle": {
+              "text": "Remind them of the Pros and Cons of Taking Action",
+              "color": "blue",
+              "size": "xlarge"
+            },
+            "cta": {
+              "text": "Schedule Now",
+              "color": "blue",
+              "to": "#scheduleNow"
+            },
+
+            "bullets": {
+              "color": "blue",
+              "icon": {
+                "color": "blue",
+                "shape": "ion-android-checkbox-outline",
+                "size": "3xsmall"
+              },
+              "items": [
+                "Something contextual to ZA Skills for Persona",
+                "Something else contextual to ZA Skills for Persona",
+                "College Educated",
+                "US Based + TimeZone"
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+]
