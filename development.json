@@ -44,6 +44,7 @@
           }
         }
       },
+
       {
         "type": "BusyPersonas",
         "props": {
@@ -106,7 +107,7 @@
       {
         "type": "PersonaIsHard",
         "props": {
-          "color": "blue",
+          "color": "blueBlack",
           "backgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/collage_bg.png",
           "backgroundSize": "cover",
           "backgroundPosition": "50% 0",
@@ -282,7 +283,6 @@
           }
         }
       },
-
       {
         "type": "AlternatingQuoteStack",
         "props": {
@@ -385,7 +385,6 @@
               "style": {
                 "color": "#C0E1FF"
               }
-
             },
             "cta": {
               "text": "Pick Your Plan",

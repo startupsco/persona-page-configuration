@@ -44,6 +44,7 @@
           }
         }
       },
+
       {
         "type": "BusyPersonas",
         "props": {
@@ -106,11 +107,14 @@
       {
         "type": "PersonaIsHard",
         "props": {
-          "color": "blue",
+          "color": "blueBlack",
           "backgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/collage_bg.png",
           "backgroundSize": "cover",
           "backgroundPosition": "50% 0",
-          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min.",
+          "paragraph": {
+            "opacity": 1.0,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min."
+          },
           "subtitle": {
             "text": "We understand because we are empathetics.",
             "color": "blueLight",
@@ -118,6 +122,7 @@
           },
           "title": "Being a Persona Is Hard",
           "quote": {
+            "opacity": 0.7,
             "person": {
               "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
               "name": "Persona Name",
@@ -278,15 +283,18 @@
           }
         }
       },
-
       {
         "type": "AlternatingQuoteStack",
         "props": {
           "valuePropositions": [
             {
               "title": "Help them understand their current approach to managing",
-              "paragraph": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident.",
+              "paragraph": {
+                "opacity": 0.7,
+                "text": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident."
+              },
               "quote": {
+                "opacity": 0.7,
                 "person": {
                   "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
                   "name": "Persona Name",
@@ -301,8 +309,12 @@
             },
             {
               "title": "We then expose the dysfunction and introduce a new idea",
-              "paragraph": "Lorem dolore incididunt amet fugiat in nostrud ut consectetur fugiat consequat commodo. Et consectetur in voluptate commodo consequat. Amet excepteur commodo dolore nisi pariatur.",
+              "paragraph": {
+                "opacity": 0.7,
+                "text": "Lorem dolore incididunt amet fugiat in nostrud ut consectetur fugiat consequat commodo. Et consectetur in voluptate commodo consequat. Amet excepteur commodo dolore nisi pariatur."
+              },
               "quote": {
+                "opacity": 0.7,
                 "person": {
                   "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
                   "name": "Persona Name",
@@ -316,8 +328,12 @@
             },
             {
               "title": "Then we tell them about what they'll get for the transformation",
-              "paragraph": "Labore enim deserunt adipisicing anim amet proident. Magna reprehenderit fugiat proident adipisicing ut exercitation. Minim excepteur mollit qui ex qui officia velit do velit ullamco deserunt id.",
+              "paragraph": {
+                "opacity": 0.7,
+                "text": "Labore enim deserunt adipisicing anim amet proident. Magna reprehenderit fugiat proident adipisicing ut exercitation. Minim excepteur mollit qui ex qui officia velit do velit ullamco deserunt id."
+              },
               "quote": {
+                "opacity": 0.7,
                 "person": {
                   "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
                   "name": "Persona Name",
@@ -365,7 +381,10 @@
             "subtitle": {
               "text": "Remind them of the Pros and Cons of Taking Action",
               "color": "white",
-              "size": "xlarge"
+              "size": "xlarge",
+              "style": {
+                "color": "#C0E1FF"
+              }
             },
             "cta": {
               "text": "Pick Your Plan",
@@ -401,6 +420,7 @@
             "subtitle": {
               "text": "Remind them of the Pros and Cons of Taking Action",
               "color": "blue",
+              "opacity": 0.7,
               "size": "xlarge"
             },
             "cta": {
