@@ -110,7 +110,10 @@
           "backgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/collage_bg.png",
           "backgroundSize": "cover",
           "backgroundPosition": "50% 0",
-          "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min.",
+          "paragraph": {
+            "opacity": 1.0,
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min.",
+          },
           "subtitle": {
             "text": "We understand because we are empathetics.",
             "color": "blueLight",
