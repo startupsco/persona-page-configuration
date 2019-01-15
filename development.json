@@ -194,10 +194,7 @@
             "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/assistant-2.png"
           },
           "heading": {
-            "text": {
-              "smallScreen": "Our Virtual Assistants are a Perfect Fit For This Persona’s Needs.",
-              "largeScreen": "Our Virtual Assistants are<br/>a Perfect Fit For This<br/>Persona’s Needs."
-            }
+            "text": "Our Virtual Assistants are a Perfect Fit For This Persona’s Needs."
           },
           "bullets": {
             "icon": {
@@ -372,10 +369,7 @@
           "block1": {
             "color": "#3b79bf",
             "heading": {
-              "text": {
-                "smallScreen": "Explore Plans and Pricing",
-                "largeScreen": "Explore Plans <br />and Pricing"
-              },
+              "text": "Explore Plans and Pricing",
               "color": "white"
             },
             "subtitle": {
@@ -411,10 +405,7 @@
           "block2": {
             "color": "#c2e1ff",
             "heading": {
-              "text": {
-                "smallScreen": "Book a Consultation",
-                "largeScreen": "Book a <br/>Consultation"
-              },
+              "text": "Book a Consultation",
               "color": "blue"
             },
             "subtitle": {
