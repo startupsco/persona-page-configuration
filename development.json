@@ -365,7 +365,11 @@
             "subtitle": {
               "text": "Remind them of the Pros and Cons of Taking Action",
               "color": "white",
-              "size": "xlarge"
+              "size": "xlarge",
+              "style": {
+                "color": "#C0E1FF"
+              }
+
             },
             "cta": {
               "text": "Pick Your Plan",
