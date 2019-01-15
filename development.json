@@ -117,8 +117,8 @@
             "size": "xlarge"
           },
           "title": "Being a Persona Is Hard",
-          "opacity": 0.7,
           "quote": {
+            "opacity": 0.7,
             "person": {
               "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
               "name": "Persona Name",
