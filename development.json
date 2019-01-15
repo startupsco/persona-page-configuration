@@ -286,7 +286,10 @@
           "valuePropositions": [
             {
               "title": "Help them understand their current approach to managing",
-              "paragraph": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident.",
+              "paragraph": {
+                "opacity": 0.8,
+                "text": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident."
+              },
               "quote": {
                 "opacity": 0.8,
                 "person": {
@@ -303,7 +306,10 @@
             },
             {
               "title": "We then expose the dysfunction and introduce a new idea",
-              "paragraph": "Lorem dolore incididunt amet fugiat in nostrud ut consectetur fugiat consequat commodo. Et consectetur in voluptate commodo consequat. Amet excepteur commodo dolore nisi pariatur.",
+              "paragraph": {
+                "opacity": 0.8,
+                "text": "Lorem dolore incididunt amet fugiat in nostrud ut consectetur fugiat consequat commodo. Et consectetur in voluptate commodo consequat. Amet excepteur commodo dolore nisi pariatur."
+              },
               "quote": {
                 "opacity": 0.8,
                 "person": {
@@ -319,7 +325,10 @@
             },
             {
               "title": "Then we tell them about what they'll get for the transformation",
-              "paragraph": "Labore enim deserunt adipisicing anim amet proident. Magna reprehenderit fugiat proident adipisicing ut exercitation. Minim excepteur mollit qui ex qui officia velit do velit ullamco deserunt id.",
+              "paragraph": {
+                "opacity": 0.8,
+                "text": "Labore enim deserunt adipisicing anim amet proident. Magna reprehenderit fugiat proident adipisicing ut exercitation. Minim excepteur mollit qui ex qui officia velit do velit ullamco deserunt id."
+              },
               "quote": {
                 "opacity": 0.8,
                 "person": {
