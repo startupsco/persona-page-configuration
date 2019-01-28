@@ -11,12 +11,12 @@
           "desktopBackgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/hero_bg_left_gradient.png",
           "mobileBackgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/hero_bg_mobile_top_gradient.png",
           "title": {
-            "text": "The Big Header Goes here",
+            "text": "Invest Your Trust In Zirtual",
             "color": "white",
             "size": "large"
           },
           "subtitle": {
-            "text": "The little paragraph text goes here.",
+            "text": "Highly trained Virtual Assistants for opportunity-driven venture capitalists.",
             "color": "blueLight",
             "size": "xlarge"
           },
@@ -37,10 +37,10 @@
         "props": {
           "color": "tan",
           "quote": {
-            "text": "A quote of a really happy persona claiming this was the best choice they ever made.",
+            "text": "Zirtual is far and beyond any VA service I've used.",
             "color": "grayDark",
             "size": "xlarge",
-            "attribution": "Some Persona"
+            "attribution": "Chris Hawkins, Founder, SignNow"
           }
         }
       },
@@ -48,19 +48,19 @@
       {
         "type": "BusyPersonas",
         "props": {
-          "title": "Zirtual Works for Busy Personas",
-          "subtitle": "Explain there are three steps in a clear contextual way",
+          "title": "Find The Diamond Deal In The Rough With Zirtual",
+          "subtitle": "We deal with the small administrative details while you secure the big wins in three simple steps:",
           "color": "white",
           "cards": [
             {
               "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/pick_your_plan.svg",
               "title": {
-                "text": "Pick Your Plan",
+                "text": "Select Your Plan",
                 "color": "black",
                 "size": "2xsmall"
               },
               "subtitle": {
-                "text": "We'll match you with a VA based on your time zone and custom preferences",
+                "text": "We'll match you with a US-based, college-educated point person who works remotely as your right hand and left brain.",
                 "color": "black",
                 "size": "medium"
               }
@@ -73,7 +73,7 @@
                 "size": "2xsmall"
               },
               "subtitle": {
-                "text": "Then we’ll review your needs, systems and preference so we’re up and running Day 1",
+                "text": "We’ll review your needs, systems and preferences so we’re up-and-running on Day 1. You delegate a task and your personal VA is on it.",
                 "color": "black",
                 "size": "medium"
               }
@@ -81,12 +81,12 @@
             {
               "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/goal_achieved.svg",
               "title": {
-                "text": "Persona Goal Achieved",
+                "text": "Deal Flow Achieved",
                 "color": "black",
                 "size": "2xsmall"
               },
               "subtitle": {
-                "text": "We’ll sync to your preferred workflow. Prefer texting? Great.  Live through email? Done.",
+                "text": "We’ll sync to your preferred workflow and begin taking care of the administrative details that hamper the important decisions.",
                 "color": "black",
                 "size": "medium"
               }
@@ -113,24 +113,24 @@
           "backgroundPosition": "50% 0",
           "paragraph": {
             "opacity": 1.0,
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad min."
+            "text": "Our Virtual Assistants go above-and-beyond so that you’re able to focus on sourcing deals, networking with entrepreneurs, and discovering that one diamond startup in the rough. Your personal VA will deliver an effective deal flow, respond promptly to inquiries, and filter inbound deals. Why? Because your time is important and shouldn’t be wasted on non-critical tasks that divert your attention from investment opportunities."
           },
           "subtitle": {
-            "text": "We understand because we are empathetics.",
+            "text": "Zirtual understands that opportunity for investment can be overwhelmed by administration.",
             "color": "blueLight",
             "size": "xlarge"
           },
-          "title": "Being a Persona Is Hard",
+          "title": "Rise Above The Filtration Level",
           "quote": {
             "opacity": 0.7,
             "person": {
               "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
-              "name": "Persona Name",
-              "title": "Title",
+              "name": "Ian Crosby",
+              "title": "Co-Founder and CEO",
               "text": "This is great!",
-              "company": "Zirtual Client"
+              "company": "Bench.co"
             },
-            "text": "Zirtual Assistants are the best things I have",
+            "text": "Zirtual is simple, accessible and effective; working with Jessica has been great.",
             "size": "xlarge"
           }
         }
@@ -139,7 +139,7 @@
         "type": "FavoriteFeature",
         "props": {
           "color": "tan",
-          "title": { "text": "Our Personas’ Favorite Features" },
+          "title": { "text": "Here’s How Zirtual Can Help You" },
           "featuresLink": {
             "text": "See all of our amazing features",
             "color": "blue",
@@ -194,7 +194,7 @@
             "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/assistant-2.png"
           },
           "heading": {
-            "text": "Our Virtual Assistants are a Perfect Fit For This Persona’s Needs."
+            "text": "The Support You Need To Pursue Your Passion"
           },
           "bullets": {
             "icon": {
@@ -203,11 +203,10 @@
               "size": "3xsmall"
             },
             "items": [
-              "Something contextual to ZA Skills for Persona",
-              "Something else contextual to ZA Skills for Persona",
-              "College Educated",
-              "US Based + TimeZone",
-              "Native English Speaking"
+              "Due to the nature of your work, our selected VAs are trustworthy, ethical, and discreet.",
+              "Our VAs comprehend the intricacies of sourcing, evaluating, and managing contracts.",
+              "A rigorous, multi-step vetting process ensures they have the skills necessary to support you from the get-go, with no exhaustive training required.",
+              "US-based, college-educated, and native English speakers."
             ]
           },
           "cta": {
@@ -221,8 +220,8 @@
         "type": "TopFiveThings",
         "props": {
           "color": "white",
-          "heading": "The Top 5 Things to Consider When You're a Persona",
-          "paragraph": "Anim quis quis commodo duis irure tempor minim amet officia. Esse cupidatat magna tempor aute nulla tempor deserunt dolor aliqua. Sint in reprehenderit quis ad ut ullamco consectetur et excepteur quis occaecat.",
+          "heading": "Identifying, Securing & Managing Your Unicorn\nA Deal Flow Cheat Sheet For Venture Capitalists On The Hunt",
+          "paragraph": "From sourcing and evaluation through to client management, this step-by-step cheat sheet will help you navigate the modern world of venture capitalism in 5 comprehensive chapters. In the eBook, you’ll learn:",
           "ebook": {
             "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/ebook-graphic.png"
           },
@@ -233,11 +232,11 @@
               "size": "3xsmall"
             },
             "items": [
-              "What you’re going to learn as a persona",
-              "A mistake you’ll avoid if you choose the right VA",
-              "A fast way to get back xx hours a month",
-              "How to do this better than your peers",
-              "The #1 reason to use a Virtual Assistant"
+       "How the filtration phase can be an opportunity killer.",
+       "Why dealing with administrative duties can be a deal breaker.",
+       "How delegation lets you concentrate on closing lucrative deals.",
+       "The difference between hiring an employee and choosing a Virtual Assistant.",
+       "How Zirtual’s experienced, trustworthy VAs will shoulder the administrative weight for greater investment success.",
             ]
           }
         }
@@ -246,7 +245,7 @@
         "type": "ZirtualDifference",
         "props": {
           "color": "tan",
-          "title": "What Makes Zirtual Different",
+          "title": "We Simplify Your Life. You Close More Deals.",
 
           "differences": [
             {
