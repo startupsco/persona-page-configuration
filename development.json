@@ -148,34 +148,31 @@
           "features": [
             {
               "imageUrl": "",
-              "title": "Feature Title",
-              "text": "Service example is described in context of persona so they connect the dots1."
+              "title": "Administrative & Executive Assistanc",
+              "text": "A defined scope of service that includes inbox and deal flow management, calendar scheduling, and trend research and forecasting."
             },
             {
-              "imageUrl": "",              "title": "Feature Title",
-
-              "text": "Service example is described in context of persona so they connect the dots2."
-            },
-            {
-              "imageUrl": "",              "title": "Feature Title",
-
-              "text": "Service example is described in context of persona so they connect the dots3."
-            },
-            {
-              "imageUrl": "",              "title": "Feature Title",
-
-              "text": "Service example is described in context of persona so they connect the dots4."
-            },
-            {
-              "imageUrl": "",              "title": "Feature Title",
-
-              "text": "Service example is described in context of persona so they connect the dots5."
-            },
-            {
-              "imageUrl": "",              "title": "Feature Title",
-
-              "text": "Service example is described in context of persona so they connect the dots6."
+              "imageUrl": "",
+              "title": "Personal Assistance",
+              "text": "Free up time so you’re able to focus on your passions. Your personal VA will manage appointments, to-do tasks, and paperwork,"
+            },     {
+              "imageUrl": "",
+              "title": "Email Management",
+              "text": "Declutter and filter inbound deals, inquiries, and meeting requests with a VA who’s vastly experienced in email management."
+            },     {
+              "imageUrl": "",
+              "title": "Scheduling & Planning",
+              "text": "Save precious hours each week and spend them on networking and deal-sourcing while your VA keeps your calendar organized and efficient."
+            },     {
+              "imageUrl": "",
+              "title": "Invoicing",
+              "text": "Avoid unnecessary paperwork as your personal VA creates, sends, and follows up on invoices and documentation."
+            },     {
+              "imageUrl": "",
+              "title": "Research",
+              "text": "Focus on nurturing and growing your portfolio as your VA researches industry trends and business prospects."
             }
+
           ],
           "cta1": {
             "text": "Get Started",
