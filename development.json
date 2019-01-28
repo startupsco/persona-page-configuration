@@ -148,26 +148,32 @@
           "features": [
             {
               "imageUrl": "",
+              "title": "Feature Title",
               "text": "Service example is described in context of persona so they connect the dots1."
             },
             {
-              "imageUrl": "",
+              "imageUrl": "",              "title": "Feature Title",
+
               "text": "Service example is described in context of persona so they connect the dots2."
             },
             {
-              "imageUrl": "",
+              "imageUrl": "",              "title": "Feature Title",
+
               "text": "Service example is described in context of persona so they connect the dots3."
             },
             {
-              "imageUrl": "",
+              "imageUrl": "",              "title": "Feature Title",
+
               "text": "Service example is described in context of persona so they connect the dots4."
             },
             {
-              "imageUrl": "",
+              "imageUrl": "",              "title": "Feature Title",
+
               "text": "Service example is described in context of persona so they connect the dots5."
             },
             {
-              "imageUrl": "",
+              "imageUrl": "",              "title": "Feature Title",
+
               "text": "Service example is described in context of persona so they connect the dots6."
             }
           ],
