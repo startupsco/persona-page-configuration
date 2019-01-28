@@ -148,28 +148,31 @@
           "features": [
             {
               "imageUrl": "",
-              "text": "Service example is described in context of persona so they connect the dots1."
+              "title": "Administrative & Executive Assistanc",
+              "text": "A defined scope of service that includes inbox and deal flow management, calendar scheduling, and trend research and forecasting."
             },
             {
               "imageUrl": "",
-              "text": "Service example is described in context of persona so they connect the dots2."
-            },
-            {
+              "title": "Personal Assistance",
+              "text": "Free up time so you’re able to focus on your passions. Your personal VA will manage appointments, to-do tasks, and paperwork,"
+            },     {
               "imageUrl": "",
-              "text": "Service example is described in context of persona so they connect the dots3."
-            },
-            {
+              "title": "Email Management",
+              "text": "Declutter and filter inbound deals, inquiries, and meeting requests with a VA who’s vastly experienced in email management."
+            },     {
               "imageUrl": "",
-              "text": "Service example is described in context of persona so they connect the dots4."
-            },
-            {
+              "title": "Scheduling & Planning",
+              "text": "Save precious hours each week and spend them on networking and deal-sourcing while your VA keeps your calendar organized and efficient."
+            },     {
               "imageUrl": "",
-              "text": "Service example is described in context of persona so they connect the dots5."
-            },
-            {
+              "title": "Invoicing",
+              "text": "Avoid unnecessary paperwork as your personal VA creates, sends, and follows up on invoices and documentation."
+            },     {
               "imageUrl": "",
-              "text": "Service example is described in context of persona so they connect the dots6."
+              "title": "Research",
+              "text": "Focus on nurturing and growing your portfolio as your VA researches industry trends and business prospects."
             }
+
           ],
           "cta1": {
             "text": "Get Started",
