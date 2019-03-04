@@ -1,0 +1,454 @@
+[
+  {
+    "page": {
+      "title": "Virtual Assistants for Real Estate Agents",
+      "slug": "real-estate-agents"
+    },
+    "blocks": [
+      {
+        "type": "PersonaHero",
+        "props": {
+          "desktopBackgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/hero_bg_left_gradient.png",
+          "mobileBackgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/hero_bg_mobile_top_gradient.png",
+          "title": {
+            "text": "Invest Your Trust In Zirtual",
+            "color": "white",
+            "size": "large"
+          },
+          "subtitle": {
+            "text": "Highly trained Virtual Assistants for opportunity-driven venture capitalists.",
+            "color": "blueLight",
+            "size": "xlarge"
+          },
+          "cta1": {
+            "text": "Get It Started!",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueLightGhost",
+            "to": "#freeConsultation"
+          }
+        }
+      },
+      {
+        "type": "HappyQuote",
+        "props": {
+          "color": "tan",
+          "quote": {
+            "text": "Zirtual is far and beyond any VA service I've used.",
+            "color": "grayDark",
+            "size": "xlarge",
+            "attribution": "Chris Hawkins, Founder, SignNow"
+          }
+        }
+      },
+
+      {
+        "type": "BusyPersonas",
+        "props": {
+          "title": "Find The Diamond Deal In The Rough With Zirtual",
+          "subtitle": "We deal with the small administrative details while you secure the big wins in three simple steps:",
+          "color": "white",
+          "cards": [
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/pick_your_plan.svg",
+              "title": {
+                "text": "Select Your Plan",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We'll match you with a US-based, college-educated point person who works remotely as your right hand and left brain.",
+                "color": "black",
+                "size": "medium"
+              }
+            },
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/delegate_tasks.svg",
+              "title": {
+                "text": "Delegate Your Tasks",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We’ll review your needs, systems and preferences so we’re up-and-running on Day 1. You delegate a task and your personal VA is on it.",
+                "color": "black",
+                "size": "medium"
+              }
+            },
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/goal_achieved.svg",
+              "title": {
+                "text": "Deal Flow Achieved",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We’ll sync to your preferred workflow and begin taking care of the administrative details that hamper the important decisions.",
+                "color": "black",
+                "size": "medium"
+              }
+            }
+          ],
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "#freeConsultation"
+          }
+        }
+      },
+      {
+        "type": "PersonaIsHard",
+        "props": {
+          "color": "blueBlack",
+          "backgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/collage_bg.png",
+          "backgroundSize": "cover",
+          "backgroundPosition": "50% 0",
+          "paragraph": {
+            "opacity": 1.0,
+            "text": "Our Virtual Assistants go above-and-beyond so that you’re able to focus on sourcing deals, networking with entrepreneurs, and discovering that one diamond startup in the rough. Your personal VA will deliver an effective deal flow, respond promptly to inquiries, and filter inbound deals. Why? Because your time is important and shouldn’t be wasted on non-critical tasks that divert your attention from investment opportunities."
+          },
+          "subtitle": {
+            "text": "Zirtual understands that opportunity for investment can be overwhelmed by administration.",
+            "color": "blueLight",
+            "size": "xlarge"
+          },
+          "title": "Rise Above The Filtration Level",
+          "quote": {
+            "opacity": 0.7,
+            "person": {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+              "name": "Ian Crosby",
+              "title": "Co-Founder and CEO",
+              "text": "This is great!",
+              "company": "Bench.co"
+            },
+            "text": "Zirtual is simple, accessible and effective; working with Jessica has been great.",
+            "size": "xlarge"
+          }
+        }
+      },
+      {
+        "type": "FavoriteFeature",
+        "props": {
+          "color": "tan",
+          "title": { "text": "Here’s How Zirtual Can Help You" },
+          "featuresLink": {
+            "text": "See all of our amazing features",
+            "color": "blue",
+            "href": "#features"
+          },"primaryFeatures": {
+            "component": "bullet",
+            "grid": {
+              "lap": 3,
+              "hands2": 6,
+              "hands": 12
+            },
+            "features": [
+              {
+                "imageUrl": "",
+                "title": "Administrative & Executive Assistance",
+                "text": "A defined scope of service that includes inbox and deal flow management, calendar scheduling, and trend research and forecasting."
+              },
+              {
+                "imageUrl": "",
+                "title": "Personal Assistance",
+                "text": "Free up time so you’re able to focus on your passions. Your personal VA will manage appointments, to-do tasks, and paperwork,"
+              },
+              {
+                "imageUrl": "",
+                "title": "Email Management",
+                "text": "Declutter and filter inbound deals, inquiries, and meeting requests with a VA who’s vastly experienced in email management."
+              },
+              {
+                "imageUrl": "",
+                "title": "Scheduling & Planning",
+                "text": "Save precious hours each week and spend them on networking and deal-sourcing while your VA keeps your calendar organized and efficient."
+              },
+              {
+                "imageUrl": "",
+                "title": "Invoicing",
+                "text": "Avoid unnecessary paperwork as your personal VA creates, sends, and follows up on invoices and documentation."
+              },
+              {
+                "imageUrl": "",
+                "title": "Research",
+                "text": "Focus on nurturing and growing your portfolio as your VA researches industry trends and business prospects."
+              }
+            ]
+          },
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "#freeConsultation"
+          }
+        }
+      },
+      {
+        "type": "PerfectAssistants",
+        "props": {
+          "color": "tanDark",
+          "assistant1": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/assistant-1.png"
+          },
+          "assistant2": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/assistant-2.png"
+          },
+          "heading": {
+            "text": "The Support You Need To Pursue Your Passion"
+          },
+          "bullets": {
+            "icon": {
+              "color": "bluePastel",
+              "shape": "ion-android-checkbox-outline",
+              "size": "3xsmall"
+            },
+            "items": [
+              "Due to the nature of your work, our selected VAs are trustworthy, ethical, and discreet.",
+              "Our VAs comprehend the intricacies of sourcing, evaluating, and managing contracts.",
+              "A rigorous, multi-step vetting process ensures they have the skills necessary to support you from the get-go, with no exhaustive training required.",
+              "US-based, college-educated, and native English speakers."
+            ]
+          },
+          "cta": {
+            "text": "Find Your Assistant",
+            "color": "green",
+            "to": "#findYourAssistant"
+          }
+        }
+      },
+      {
+        "type": "TopFiveThings",
+        "props": {
+          "color": "white",
+          "heading": "Identifying, Securing & Managing Your Unicorn\nA Deal Flow Cheat Sheet For Venture Capitalists On The Hunt",
+          "paragraph": "From sourcing and evaluation through to client management, this step-by-step cheat sheet will help you navigate the modern world of venture capitalism in 5 comprehensive chapters. In the eBook, you’ll learn:",
+          "ebook": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/ebook-graphic.png"
+          },
+          "bullets": {
+            "icon": {
+              "color": "bluePastel",
+              "shape": "ion-android-checkbox-outline",
+              "size": "3xsmall"
+            },
+            "items": [
+              "How the filtration phase can be an opportunity killer.",
+              "Why dealing with administrative duties can be a deal breaker.",
+              "How delegation lets you concentrate on closing lucrative deals.",
+              "The difference between hiring an employee and choosing a Virtual Assistant.",
+              "How Zirtual’s experienced, trustworthy VAs will shoulder the administrative weight for greater investment success."
+            ]
+          }
+        }
+      },
+      {
+        "type": "ZirtualDifference",
+        "props": {
+          "color": "tan",
+          "title": "We Simplify Your Life. You Close More Deals.",
+
+          "differences": [
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
+              "title": "No Contracts, Cancel Anytime",
+              "text": "Minim proident laborum sunt esse excepteur nulla fugiat dolore ea proident aute. Ipsum incididunt ut elit irure consectetur aliquip laborum et ex veniam consequat.",
+              "size": "3xsmall"
+            },
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
+              "title": "No Contracts, Cancel Anytime 2",
+              "text": "Minim proident laborum sunt esse excepteur nulla fugiat dolore ea proident aute. Ipsum incididunt ut elit irure consectetur aliquip laborum et ex veniam consequat.",
+              "size": "3xsmall"
+            },
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
+              "title": "No Contracts, Cancel Anytime 3",
+              "text": "Minim proident laborum sunt esse excepteur nulla fugiat dolore ea proident aute. Ipsum incididunt ut elit irure consectetur aliquip laborum et ex veniam consequat.",
+              "size": "3xsmall"
+            }
+          ],
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "#freeConsultation"
+          }
+        }
+      },
+      {
+        "type": "AlternatingQuoteStack",
+        "props": {
+          "valuePropositions": [
+            {
+              "title": "Help them understand their current approach to managing",
+              "paragraph": {
+                "opacity": 0.7,
+                "text": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident."
+              },
+              "quote": {
+                "opacity": 0.7,
+                "person": {
+                  "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                  "name": "Persona Name",
+                  "title": "Title",
+                  "text": "This is great!",
+                  "company": "Zirtual Client"
+                },
+                "text": "Sint pariatur enim laborum commodo duis est eiusmod consequat tempor do cillum. Minim pariatur non fugiat sunt officia ipsum voluptate ipsum officia mollit ea nisi. Et duis exercitation minim adipisicing occaecat veniam magna.",
+
+                "size": "xlarge"
+              }
+            },
+            {
+              "title": "We then expose the dysfunction and introduce a new idea",
+              "paragraph": {
+                "opacity": 0.7,
+                "text": "Lorem dolore incididunt amet fugiat in nostrud ut consectetur fugiat consequat commodo. Et consectetur in voluptate commodo consequat. Amet excepteur commodo dolore nisi pariatur."
+              },
+              "quote": {
+                "opacity": 0.7,
+                "person": {
+                  "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                  "name": "Persona Name",
+                  "title": "Title",
+                  "text": "This is great!",
+                  "company": "Zirtual Client"
+                },
+                "text": "Cupidatat sint voluptate in pariatur reprehenderit adipisicing commodo cupidatat cupidatat. Mollit proident occaecat eu do amet irure consectetur dolor esse aliquip exercitation officia. Nulla amet ex laborum qui sunt anim.",
+                "size": "xlarge"
+              }
+            },
+            {
+              "title": "Then we tell them about what they'll get for the transformation",
+              "paragraph": {
+                "opacity": 0.7,
+                "text": "Labore enim deserunt adipisicing anim amet proident. Magna reprehenderit fugiat proident adipisicing ut exercitation. Minim excepteur mollit qui ex qui officia velit do velit ullamco deserunt id."
+              },
+              "quote": {
+                "opacity": 0.7,
+                "person": {
+                  "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                  "name": "Persona Name",
+                  "title": "Title",
+                  "text": "This is great!",
+                  "company": "Zirtual Client"
+                },
+                "text": "Occaecat nulla in nostrud magna qui sunt esse minim nulla. Eu aliquip eiusmod enim occaecat occaecat reprehenderit labore ad excepteur. In sunt do cillum elit nisi minim amet esse.",
+                "size": "xlarge"
+              }
+            }
+          ]
+        }
+      },
+
+      {
+        "type": "FinalRequest",
+        "props": {
+          "color": "white",
+          "title": "Make a Final Request for Action",
+          "subtitle": {
+            "text": "Remind them of the Pros and Cons of Taking Action",
+            "size": "xlarge",
+            "color": "grayDark"
+          },
+          "paragraph": {
+            "text": "Lorem culpa laborum laborum nisi irure laboris elit. Quis ex duis duis enim. Nisi sunt enim voluptate sunt Lorem nostrud irure ea incididunt. Labore minim eiusmod excepteur irure incididunt reprehenderit. Fugiat commodo do commodo reprehenderit cillum cillum anim amet. Fugiat labore excepteur dolore ea laboris proident aliqua duis in ut.",
+            "size": "xlarge",
+            "color": "grayDark"
+          }
+        }
+      },
+      {
+        "type": "SideBySideCTA",
+        "props": {
+          "block1": {
+            "color": "#3b79bf",
+            "heading": {
+              "text": "Explore Plans and Pricing",
+              "color": "white"
+            },
+            "subtitle": {
+              "text": "Remind them of the Pros and Cons of Taking Action",
+              "color": "white",
+              "size": "xlarge",
+              "style": {
+                "color": "#C0E1FF"
+              }
+            },
+            "cta": {
+              "text": "Pick Your Plan",
+              "color": "green",
+              "to": "#pickYourPlan"
+            },
+
+            "bullets": {
+              "color": "white",
+              "icon": {
+                "color": "white",
+                "shape": "ion-android-checkbox-outline",
+                "size": "3xsmall"
+              },
+              "items": [
+                "Something contextual to ZA Skills for Persona",
+                "Something else contextual to ZA Skills for Persona",
+                "College Educated",
+                "US Based + TimeZone"
+              ]
+            }
+          },
+
+          "block2": {
+            "color": "#c2e1ff",
+            "heading": {
+              "text": "Book a Consultation",
+              "color": "blue"
+            },
+            "subtitle": {
+              "text": "Remind them of the Pros and Cons of Taking Action",
+              "color": "blue",
+              "opacity": 0.7,
+              "size": "xlarge"
+            },
+            "cta": {
+              "text": "Schedule Now",
+              "color": "blue",
+              "to": "#scheduleNow"
+            },
+
+            "bullets": {
+              "color": "blue",
+              "icon": {
+                "color": "blue",
+                "shape": "ion-android-checkbox-outline",
+                "size": "3xsmall"
+              },
+              "items": [
+                "Something contextual to ZA Skills for Persona",
+                "Something else contextual to ZA Skills for Persona",
+                "College Educated",
+                "US Based + TimeZone"
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+]
