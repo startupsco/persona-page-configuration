@@ -1,0 +1,306 @@
+[
+  {
+    "page": {
+      "title": "Who We Serve",
+      "slug": "/v2/who-we-serve"
+    },
+    "blocks": [
+      {
+        "type": "PersonaHero",
+        "props": {
+          "desktopBackgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/hero_bg_left_gradient.png",
+          "mobileBackgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/hero_bg_mobile_top_gradient.png",
+          "title": {
+            "text": "From Personas to Personas",
+            "color": "white",
+            "padding": false,
+            "size": "large"
+          },
+          "subtitle": {
+            "text": "We provide the services our personas need",
+            "color": "blueLight",
+            "padding": false,
+
+            "size": "xlarge"
+          },
+          "cta1": null,
+          "cta2": null,
+          "layout": "center"
+        }
+      },
+
+      {
+        "type": "PersonaIsHard",
+        "props": {
+          "color": "tan",
+          "backgroundImageUrl": null,
+          "backgroundSize": "cover",
+          "backgroundPosition": "50% 0",
+          "paragraph": [
+            {
+              "opacity": 1.0,
+              "text": "Customizing our solution to fit your needs is easy to do, and our pairing process will ensure that your Zirtual assistant is familiar with your industry and needs."
+            }
+          ],
+          "subtitle": {
+            "text": false,
+            "color": "blueLight",
+            "size": "xlarge"
+          },
+          "title": "Every Client is Unique",
+          "quote": {
+            "opacity": 0.7,
+            "person": {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+              "name": "Persona Name",
+              "title": "Title",
+              "text": "This is great!",
+              "company": "Zirtual Client"
+            },
+            "text": "\"A quote of a really happy persona that talks about how life was hard before their ZA, but is all better now thanks to ZA American Name.\"",
+            "size": "xlarge"
+          }
+        }
+      },
+      {
+        "type": "FormWithImage",
+        "props": {
+          "color": "tan",
+          "imageOnLeft": true,
+          "heading": {
+            "text": "The Persona’s Name"
+          },
+          "paragraph": "Here we give the elevator pitch that shows we really understand the persona and we weren’t just faking it and pretending when we showed them an ad targeted at them in their buyer journey.",
+          "ebook": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/ebook-graphic.png"
+          },
+          "cta1": {
+            "text": "Learn More",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Get Started",
+            "color": "blueGhost",
+            "style": { "color": "blueDark" },
+            "to": "#freeConsultation"
+          }
+        }
+      },
+      {
+        "type": "FormWithImage",
+        "props": {
+          "color": "tan",
+          "imageOnLeft": true,
+          "heading": {
+            "text": "The Persona’s Name"
+          },
+          "paragraph": "Here we give the elevator pitch that shows we really understand the persona and we weren’t just faking it and pretending when we showed them an ad targeted at them in their buyer journey.",
+          "ebook": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/ebook-graphic.png"
+          },
+          "cta1": {
+            "text": "Learn More",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Get Started",
+            "color": "blueGhost",
+            "style": { "color": "blueDark" },
+            "to": "#freeConsultation"
+          }
+        }
+      },
+      {
+        "type": "FormWithImage",
+        "props": {
+          "color": "tan",
+          "imageOnLeft": true,
+          "heading": {
+            "text": "The Persona’s Name"
+          },
+          "paragraph": "Here we give the elevator pitch that shows we really understand the persona and we weren’t just faking it and pretending when we showed them an ad targeted at them in their buyer journey.",
+          "ebook": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/ebook-graphic.png"
+          },
+          "cta1": {
+            "text": "Learn More",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Get Started",
+            "color": "blueGhost",
+            "style": { "color": "blueDark" },
+            "to": "#freeConsultation"
+          }
+        }
+      },
+      {
+        "type": "FormWithImage",
+        "props": {
+          "color": "tan",
+          "imageOnLeft": true,
+          "heading": {
+            "text": "The Persona’s Name"
+          },
+          "paragraph": "Here we give the elevator pitch that shows we really understand the persona and we weren’t just faking it and pretending when we showed them an ad targeted at them in their buyer journey.",
+          "ebook": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/ebook-graphic.png"
+          },
+          "cta1": {
+            "text": "Learn More",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Get Started",
+            "color": "blueGhost",
+            "style": { "color": "blueDark" },
+            "to": "#freeConsultation"
+          }
+        }
+      },
+
+      {
+        "type": "FormWithImage",
+        "props": {
+          "color": "white",
+          "heading": {
+            "text": "Overwhelmed and need some guidance"
+          },
+          "paragraph": "Anim quis quis commodo duis irure tempor minim amet officia. Esse cupidatat magna tempor aute nulla tempor deserunt dolor aliqua. Sint in reprehenderit quis ad ut ullamco consectetur et excepteur quis occaecat.",
+          "ebook": {
+            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/ebook-graphic.png"
+          },
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "#getStarted"
+          }
+        }
+      },
+
+      {
+        "type": "ZirtualDifference",
+        "props": {
+          "color": "tan",
+          "title": "How Zirtual Helps You Value Prop",
+          "subtitle": "Explain there are three steps in a clear clear way",
+
+          "differences": [
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
+              "title": "Pick your Plan",
+              "text": "We'll match you with a VA based on your time zone and custom preferences",
+              "size": "3xsmall"
+            },
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
+              "title": "Delegate Your Tasks",
+              "text": "Then we'll review your needs, systems and preference so we're up and running Day 1",
+              "size": "3xsmall"
+            },
+            {
+              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
+              "title": "Persona Goal Achieved",
+              "text": "We'll sync to your preferred workflow. Prefer texting? Great. Live through email? Done.",
+              "size": "3xsmall"
+            }
+          ],
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "#getStarted"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "#freeConsultation"
+          }
+        }
+      },
+
+      {
+        "type": "QuotesAndLogos",
+        "props": {
+          "color": "#b7dcff",
+          "overrideColor": "white",
+          "heading": {
+            "color": "blueDark",
+            "text": "Our Virtual Assistants are a Perfect Fit For This Persona’s Needs."
+          },
+          "bullets": {
+            "icon": {
+              "color": "bluePastel",
+              "shape": "ion-android-checkbox-outline",
+              "size": "3xsmall"
+            },
+            "items": [
+              "Something contextual to ZA Skills for Persona",
+              "Something else contextual to ZA Skills for Persona",
+              "College Educated",
+              "US Based + TimeZone",
+              "Native English Speaking"
+            ]
+          },
+          "logos": [
+            "google",
+            "ted",
+            "stanford-med",
+            "zynga",
+            "apple",
+            "fidelity-invest"
+          ],
+          "quotes": [
+            {
+              "opacity": 0.7,
+              "person": {
+                "color": "blueDark",
+                "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                "name": "Persona Name",
+                "title": "Title",
+                "text": "This is great!",
+                "company": "Zirtual Client"
+              },
+              "text": "Sint pariatur enim laborum commodo duis est eiusmod consequat tempor do cillum. Minim pariatur non fugiat sunt officia ipsum voluptate ipsum officia mollit ea nisi. Et duis exercitation minim adipisicing occaecat veniam magna.",
+              "size": "large"
+            },
+            {
+              "opacity": 0.7,
+              "person": {
+                "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                "name": "Persona Name",
+                "title": "Title",
+                "text": "This is great!",
+                "company": "Zirtual Client"
+              },
+              "text": "Sint pariatur enim laborum commodo duis est eiusmod consequat tempor do cillum. Minim pariatur non fugiat sunt officia ipsum voluptate ipsum officia mollit ea nisi. Et duis exercitation minim adipisicing occaecat veniam magna.",
+
+              "size": "large"
+            },
+            {
+              "opacity": 0.7,
+              "person": {
+                "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                "name": "Persona Name",
+                "title": "Title",
+                "text": "This is great!",
+                "company": "Zirtual Client"
+              },
+              "text": "Sint pariatur enim laborum commodo duis est eiusmod consequat tempor do cillum. Minim pariatur non fugiat sunt officia ipsum voluptate ipsum officia mollit ea nisi. Et duis exercitation minim adipisicing occaecat veniam magna.",
+
+              "size": "large"
+            }
+          ],
+          "cta": {
+            "text": "Find Your Assistant",
+            "color": "green",
+            "to": "#findYourAssistant"
+          }
+        }
+      }
+    ]
+  }
+]
