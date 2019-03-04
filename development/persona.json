@@ -111,10 +111,10 @@
           "backgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/collage_bg.png",
           "backgroundSize": "cover",
           "backgroundPosition": "50% 0",
-          "paragraph": {
+          "paragraph": [{
             "opacity": 1.0,
             "text": "Our Virtual Assistants go above-and-beyond so that you’re able to focus on sourcing deals, networking with entrepreneurs, and discovering that one diamond startup in the rough. Your personal VA will deliver an effective deal flow, respond promptly to inquiries, and filter inbound deals. Why? Because your time is important and shouldn’t be wasted on non-critical tasks that divert your attention from investment opportunities."
-          },
+          }],
           "subtitle": {
             "text": "Zirtual understands that opportunity for investment can be overwhelmed by administration.",
             "color": "blueLight",
@@ -298,10 +298,10 @@
           "valuePropositions": [
             {
               "title": "Help them understand their current approach to managing",
-              "paragraph": {
+              "paragraph": [{
                 "opacity": 0.7,
                 "text": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident."
-              },
+              }],
               "quote": {
                 "opacity": 0.7,
                 "person": {
@@ -318,10 +318,10 @@
             },
             {
               "title": "We then expose the dysfunction and introduce a new idea",
-              "paragraph": {
+              "paragraph": [{
                 "opacity": 0.7,
-                "text": "Lorem dolore incididunt amet fugiat in nostrud ut consectetur fugiat consequat commodo. Et consectetur in voluptate commodo consequat. Amet excepteur commodo dolore nisi pariatur."
-              },
+                "text": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident."
+              }],
               "quote": {
                 "opacity": 0.7,
                 "person": {
@@ -337,10 +337,10 @@
             },
             {
               "title": "Then we tell them about what they'll get for the transformation",
-              "paragraph": {
+              "paragraph": [{
                 "opacity": 0.7,
-                "text": "Labore enim deserunt adipisicing anim amet proident. Magna reprehenderit fugiat proident adipisicing ut exercitation. Minim excepteur mollit qui ex qui officia velit do velit ullamco deserunt id."
-              },
+                "text": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident."
+              }],
               "quote": {
                 "opacity": 0.7,
                 "person": {
