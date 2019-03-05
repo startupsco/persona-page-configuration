@@ -44,7 +44,6 @@
           }
         }
       },
-
       {
         "type": "BusyPersonas",
         "props": {
@@ -111,10 +110,12 @@
           "backgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/collage_bg.png",
           "backgroundSize": "cover",
           "backgroundPosition": "50% 0",
-          "paragraph": [{
-            "opacity": 1.0,
-            "text": "Our Virtual Assistants go above-and-beyond so that you’re able to focus on sourcing deals, networking with entrepreneurs, and discovering that one diamond startup in the rough. Your personal VA will deliver an effective deal flow, respond promptly to inquiries, and filter inbound deals. Why? Because your time is important and shouldn’t be wasted on non-critical tasks that divert your attention from investment opportunities."
-          }],
+          "paragraph": [
+            {
+              "opacity": 1.0,
+              "text": "Our Virtual Assistants go above-and-beyond so that you’re able to focus on sourcing deals, networking with entrepreneurs, and discovering that one diamond startup in the rough. Your personal VA will deliver an effective deal flow, respond promptly to inquiries, and filter inbound deals. Why? Because your time is important and shouldn’t be wasted on non-critical tasks that divert your attention from investment opportunities."
+            }
+          ],
           "subtitle": {
             "text": "Zirtual understands that opportunity for investment can be overwhelmed by administration.",
             "color": "blueLight",
@@ -139,12 +140,15 @@
         "type": "FavoriteFeature",
         "props": {
           "color": "tan",
-          "title": { "text": "Here’s How Zirtual Can Help You" },
+          "title": {
+            "text": "Here’s How Zirtual Can Help You"
+          },
           "featuresLink": {
             "text": "See all of our amazing features",
             "color": "blue",
             "href": "#features"
-          },"primaryFeatures": {
+          },
+          "primaryFeatures": {
             "component": "bullet",
             "grid": {
               "lap": 3,
@@ -154,33 +158,33 @@
             "features": [
               {
                 "imageUrl": "",
-                "title": "Administrative & Executive Assistance",
+                "title": { "text": "Administration" },
                 "text": "A defined scope of service that includes inbox and deal flow management, calendar scheduling, and trend research and forecasting."
               },
               {
                 "imageUrl": "",
-                "title": "Personal Assistance",
-                "text": "Free up time so you’re able to focus on your passions. Your personal VA will manage appointments, to-do tasks, and paperwork,"
+                "title": { "text": "Personal Assistance" },
+                "text": "Free up time so you’re able to focus on your passions. Your personal VA will manage appointments, to-do tasks, and paperwork."
               },
               {
                 "imageUrl": "",
-                "title": "Email Management",
+                "title": { "text": "Email Management" },
                 "text": "Declutter and filter inbound deals, inquiries, and meeting requests with a VA who’s vastly experienced in email management."
               },
               {
                 "imageUrl": "",
-                "title": "Scheduling & Planning",
+                "title": { "text": "Scheduling" },
                 "text": "Save precious hours each week and spend them on networking and deal-sourcing while your VA keeps your calendar organized and efficient."
               },
               {
                 "imageUrl": "",
-                "title": "Invoicing",
-                "text": "Avoid unnecessary paperwork as your personal VA creates, sends, and follows up on invoices and documentation."
+                "title": { "text": "Invoicing" },
+                "text": "Focus on critical tasks and avoid unnecessary paperwork as your personal VA creates, sends, and follows up on invoices and documentation."
               },
               {
                 "imageUrl": "",
-                "title": "Research",
-                "text": "Focus on nurturing and growing your portfolio as your VA researches industry trends and business prospects."
+                "title": { "text": "Research" },
+                "text": "Take your precious time back. Nurture and grow your portfolio as your VA researches industry trends and business prospects."
               }
             ]
           },
@@ -233,7 +237,7 @@
         "type": "TopFiveThings",
         "props": {
           "color": "white",
-          "heading": "Identifying, Securing & Managing Your Unicorn\nA Deal Flow Cheat Sheet For Venture Capitalists On The Hunt",
+          "heading": "A Deal Flow Cheat Sheet For Venture Capitalists On The Hunt",
           "paragraph": "From sourcing and evaluation through to client management, this step-by-step cheat sheet will help you navigate the modern world of venture capitalism in 5 comprehensive chapters. In the eBook, you’ll learn:",
           "ebook": {
             "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/ebook-graphic.png"
@@ -259,7 +263,6 @@
         "props": {
           "color": "tan",
           "title": "We Simplify Your Life. You Close More Deals.",
-
           "differences": [
             {
               "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
@@ -297,11 +300,13 @@
         "props": {
           "valuePropositions": [
             {
-              "title": "Help them understand their current approach to managing",
-              "paragraph": [{
-                "opacity": 0.7,
-                "text": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident."
-              }],
+              "title": "Don’t Be Your Own Worst Enemy",
+              "paragraph": [
+                {
+                  "opacity": 0.7,
+                  "text": "Administration such as email management, scheduling, and filtering can seriously hamper the growth of your investment portfolio. And in our fast-paced world, you need all the time you can get to stay ahead of competitors."
+                }
+              ],
               "quote": {
                 "opacity": 0.7,
                 "person": {
@@ -311,17 +316,19 @@
                   "text": "This is great!",
                   "company": "Zirtual Client"
                 },
-                "text": "Sint pariatur enim laborum commodo duis est eiusmod consequat tempor do cillum. Minim pariatur non fugiat sunt officia ipsum voluptate ipsum officia mollit ea nisi. Et duis exercitation minim adipisicing occaecat veniam magna.",
+                "text": "need a quote",
 
                 "size": "xlarge"
               }
             },
             {
-              "title": "We then expose the dysfunction and introduce a new idea",
-              "paragraph": [{
-                "opacity": 0.7,
-                "text": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident."
-              }],
+              "title": "There’s No Harm In Seeking Help",
+              "paragraph": [
+                {
+                  "opacity": 0.7,
+                  "text": "Why carry the weight of non-critical tasks alone? By delegating administration and slow processes to an experienced assistant, you’re able to pour your talent into what truly matters: portfolio growth and profitability."
+                }
+              ],
               "quote": {
                 "opacity": 0.7,
                 "person": {
@@ -331,16 +338,18 @@
                   "text": "This is great!",
                   "company": "Zirtual Client"
                 },
-                "text": "Cupidatat sint voluptate in pariatur reprehenderit adipisicing commodo cupidatat cupidatat. Mollit proident occaecat eu do amet irure consectetur dolor esse aliquip exercitation officia. Nulla amet ex laborum qui sunt anim.",
+                "text": "need a quote",
                 "size": "xlarge"
               }
             },
             {
-              "title": "Then we tell them about what they'll get for the transformation",
-              "paragraph": [{
-                "opacity": 0.7,
-                "text": "In ullamco sint dolore exercitation sint adipisicing excepteur anim. Elit Lorem officia irure ut ullamco dolor sunt id ex culpa fugiat. Aliqua in ipsum qui esse fugiat sunt magna est aliquip proident."
-              }],
+              "title": "Simplify Your Deal Flow",
+              "paragraph": [
+                {
+                  "opacity": 0.7,
+                  "text": "Whether unearthing a lead or applying your mind to the management of a complex deal, an efficient, attentive Virtual Assistant will give you the time you need to ensure it’s done right."
+                }
+              ],
               "quote": {
                 "opacity": 0.7,
                 "person": {
@@ -350,26 +359,26 @@
                   "text": "This is great!",
                   "company": "Zirtual Client"
                 },
-                "text": "Occaecat nulla in nostrud magna qui sunt esse minim nulla. Eu aliquip eiusmod enim occaecat occaecat reprehenderit labore ad excepteur. In sunt do cillum elit nisi minim amet esse.",
+                "text": "need a quote",
+
                 "size": "xlarge"
               }
             }
           ]
         }
       },
-
       {
         "type": "FinalRequest",
         "props": {
           "color": "white",
-          "title": "Make a Final Request for Action",
+          "title": "Zirtual Is Here For You",
           "subtitle": {
-            "text": "Remind them of the Pros and Cons of Taking Action",
+            "text": "With a personal assistant trained in deal flow management.",
             "size": "xlarge",
             "color": "grayDark"
           },
           "paragraph": {
-            "text": "Lorem culpa laborum laborum nisi irure laboris elit. Quis ex duis duis enim. Nisi sunt enim voluptate sunt Lorem nostrud irure ea incididunt. Labore minim eiusmod excepteur irure incididunt reprehenderit. Fugiat commodo do commodo reprehenderit cillum cillum anim amet. Fugiat labore excepteur dolore ea laboris proident aliqua duis in ut.",
+            "text": "Zirtual has a wealth of experience in the industry and a proven track record of elevating our investor clients to the next tier of success. Our skilled Virtual Assistants will remove the obstacles that hamper daily operations by honing your deal flow to maximum efficiency.",
             "size": "xlarge",
             "color": "grayDark"
           }
@@ -385,7 +394,7 @@
               "color": "white"
             },
             "subtitle": {
-              "text": "Remind them of the Pros and Cons of Taking Action",
+              "text": "Find the package that’s perfect for your process.",
               "color": "white",
               "size": "xlarge",
               "style": {
@@ -397,7 +406,6 @@
               "color": "green",
               "to": "#pickYourPlan"
             },
-
             "bullets": {
               "color": "white",
               "icon": {
@@ -406,22 +414,21 @@
                 "size": "3xsmall"
               },
               "items": [
-                "Something contextual to ZA Skills for Persona",
-                "Something else contextual to ZA Skills for Persona",
-                "College Educated",
-                "US Based + TimeZone"
+                "Small task work to keep on top of things.",
+                "Project work that goes beyond inbox and scheduling.",
+                "Part-time assistance just shy of a full-time employee.",
+                "A Virtual Assistant adept at handling demanding workloads."
               ]
             }
           },
-
           "block2": {
             "color": "#c2e1ff",
             "heading": {
-              "text": "Book a Consultation",
+              "text": "Book A Consultation",
               "color": "blue"
             },
             "subtitle": {
-              "text": "Remind them of the Pros and Cons of Taking Action",
+              "text": "Take action by chatting to a Zirtual specialist about your options.",
               "color": "blue",
               "opacity": 0.7,
               "size": "xlarge"
@@ -431,7 +438,6 @@
               "color": "blue",
               "to": "#scheduleNow"
             },
-
             "bullets": {
               "color": "blue",
               "icon": {
@@ -440,10 +446,10 @@
                 "size": "3xsmall"
               },
               "items": [
-                "Something contextual to ZA Skills for Persona",
-                "Something else contextual to ZA Skills for Persona",
-                "College Educated",
-                "US Based + TimeZone"
+                "Find the ideal package for your workflow.",
+                "Be introduced to your personal Virtual Assistant.",
+                "Simplify your deal flow through delegation.",
+                "Watch your portfolio grow."
               ]
             }
           }
