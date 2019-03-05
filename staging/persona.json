@@ -37,10 +37,10 @@
         "props": {
           "color": "tan",
           "quote": {
-            "text": "Zirtual is far and beyond any VA service I've used.",
+            "text": "“Zirtual helps to bridge the gap between our current resources and processes, and to ensure a robust pipeline and success rate.”",
             "color": "grayDark",
             "size": "xlarge",
-            "attribution": "Chris Hawkins, Founder, SignNow"
+            "attribution": "Neil Katz, Venture Capitalist"
           }
         }
       },
@@ -311,12 +311,10 @@
                 "opacity": 0.7,
                 "person": {
                   "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
-                  "name": "Persona Name",
-                  "title": "Title",
-                  "text": "This is great!",
-                  "company": "Zirtual Client"
+                  "name": "Phil N.",
+                  "title": "Investment Banker"
                 },
-                "text": "need a quote",
+                "text": "\"I used to waste a ton of time on my inbox, my calendar, and in doing basic diligence on companies in my deal pipeline. Now Zirtual handles that and I focus on the cream.\"",
 
                 "size": "xlarge"
               }
@@ -333,12 +331,11 @@
                 "opacity": 0.7,
                 "person": {
                   "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
-                  "name": "Persona Name",
-                  "title": "Title",
-                  "text": "This is great!",
-                  "company": "Zirtual Client"
+                  "name": "Grant M.",
+                  "title": "Associate Venture Capitalist"
                 },
-                "text": "need a quote",
+                "text": "\"I used to take pride in doing everything myself. Now, I delegate everything I can to Zirtual, and take pride in doing more deals a year than ever!\"",
+
                 "size": "xlarge"
               }
             },
@@ -354,12 +351,10 @@
                 "opacity": 0.7,
                 "person": {
                   "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
-                  "name": "Persona Name",
-                  "title": "Title",
-                  "text": "This is great!",
-                  "company": "Zirtual Client"
+                  "name": "Brenda S.",
+                  "title": "Fund Manager"
                 },
-                "text": "need a quote",
+                "text": "\"To call what we had before Zirtual a pipeline would be generous. Now, we've got a real process, and know who is doing what, and when. A world of difference in our deal management.\"",
 
                 "size": "xlarge"
               }
