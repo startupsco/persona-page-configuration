@@ -259,30 +259,16 @@
         }
       },
       {
-        "type": "ZirtualDifference",
+        "type": "FinalRequest",
         "props": {
           "color": "tan",
           "title": "We Simplify Your Life. You Close More Deals.",
-          "differences": [
-            {
-              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
-              "title": "No Contracts, Cancel Anytime",
-              "text": "Minim proident laborum sunt esse excepteur nulla fugiat dolore ea proident aute. Ipsum incididunt ut elit irure consectetur aliquip laborum et ex veniam consequat.",
-              "size": "3xsmall"
-            },
-            {
-              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
-              "title": "No Contracts, Cancel Anytime 2",
-              "text": "Minim proident laborum sunt esse excepteur nulla fugiat dolore ea proident aute. Ipsum incididunt ut elit irure consectetur aliquip laborum et ex veniam consequat.",
-              "size": "3xsmall"
-            },
-            {
-              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/placeholder_oval.png",
-              "title": "No Contracts, Cancel Anytime 3",
-              "text": "Minim proident laborum sunt esse excepteur nulla fugiat dolore ea proident aute. Ipsum incididunt ut elit irure consectetur aliquip laborum et ex veniam consequat.",
-              "size": "3xsmall"
-            }
-          ],
+          "containerWidth": "medium",
+          "maxWidth": null,
+          "paragraph": {
+            "text": "Don’t sweat the small stuff. Concentrate on the big wins. Find the perfect Virtual Assistant for you and invest your time in the areas that stimulate success: discovering deals, networking with visionary entrepreneurs, investing, and being first-in-line to close that lucrative contract."
+          },
+
           "cta1": {
             "text": "Get Started",
             "color": "green",
