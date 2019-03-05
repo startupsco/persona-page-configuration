@@ -150,6 +150,7 @@
           },
           "primaryFeatures": {
             "component": "card",
+            "heightAuto": true,
             "grid": {
               "lap": 3,
               "hands2": 6,
@@ -158,37 +159,37 @@
             "features": [
               {
                 "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/administration.svg",
-                "title": { "text": "Administration" },
+                "title": { "text": "Administration", "size": "2xsmall" },
                 "text": "A defined scope of service that includes inbox and deal flow management, calendar scheduling, and trend research and forecasting."
               },
               {
                 "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/personal-assistant.svg",
 
-                "title": { "text": "Personal Assistance" },
+                "title": { "text": "Personal Assistance", "size": "2xsmall" },
                 "text": "Free up time so you’re able to focus on your passions. Your personal VA will manage appointments, to-do tasks, and paperwork."
               },
               {
                 "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/email-mgmt.svg",
 
-                "title": { "text": "Email Management" },
+                "title": { "text": "Email Management", "size": "2xsmall" },
                 "text": "Declutter and filter inbound deals, inquiries, and meeting requests with a VA who’s vastly experienced in email management."
               },
               {
                 "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/scheduling.svg",
 
-                "title": { "text": "Scheduling" },
+                "title": { "text": "Scheduling", "size": "2xsmall" },
                 "text": "Save precious hours each week and spend them on networking and deal-sourcing while your VA keeps your calendar organized and efficient."
               },
               {
                 "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/invoicing.svg",
 
-                "title": { "text": "Invoicing" },
+                "title": { "text": "Invoicing", "size": "2xsmall" },
                 "text": "Focus on critical tasks and avoid unnecessary paperwork as your personal VA creates, sends, and follows up on invoices and documentation."
               },
               {
                 "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/research.svg",
 
-                "title": { "text": "Research" },
+                "title": { "text": "Research", "size": "2xsmall" },
                 "text": "Take your precious time back. Nurture and grow your portfolio as your VA researches industry trends and business prospects."
               }
             ]
