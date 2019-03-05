@@ -37,7 +37,7 @@
         "props": {
           "color": "tan",
           "quote": {
-            "text": "Zirtual helps to bridge the gap between our current resources and processes, and to ensure a robust pipeline and success rate.",
+            "text": "“Zirtual helps to bridge the gap between our current resources and processes, and to ensure a robust pipeline and success rate.”",
             "color": "grayDark",
             "size": "xlarge",
             "attribution": "Neil Katz, Venture Capitalist"
@@ -149,7 +149,7 @@
             "href": "#features"
           },
           "primaryFeatures": {
-            "component": "bullet",
+            "component": "card",
             "grid": {
               "lap": 3,
               "hands2": 6,
@@ -157,32 +157,37 @@
             },
             "features": [
               {
-                "imageUrl": "",
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/administration.svg",
                 "title": { "text": "Administration" },
                 "text": "A defined scope of service that includes inbox and deal flow management, calendar scheduling, and trend research and forecasting."
               },
               {
-                "imageUrl": "",
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/personal-assistant.svg",
+
                 "title": { "text": "Personal Assistance" },
                 "text": "Free up time so you’re able to focus on your passions. Your personal VA will manage appointments, to-do tasks, and paperwork."
               },
               {
-                "imageUrl": "",
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/email-mgmt.svg",
+
                 "title": { "text": "Email Management" },
                 "text": "Declutter and filter inbound deals, inquiries, and meeting requests with a VA who’s vastly experienced in email management."
               },
               {
-                "imageUrl": "",
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/scheduling.svg",
+
                 "title": { "text": "Scheduling" },
                 "text": "Save precious hours each week and spend them on networking and deal-sourcing while your VA keeps your calendar organized and efficient."
               },
               {
-                "imageUrl": "",
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/invoicing.svg",
+
                 "title": { "text": "Invoicing" },
                 "text": "Focus on critical tasks and avoid unnecessary paperwork as your personal VA creates, sends, and follows up on invoices and documentation."
               },
               {
-                "imageUrl": "",
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/research.svg",
+
                 "title": { "text": "Research" },
                 "text": "Take your precious time back. Nurture and grow your portfolio as your VA researches industry trends and business prospects."
               }
@@ -205,10 +210,10 @@
         "props": {
           "color": "tanDark",
           "assistant1": {
-            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/assistant-1.png"
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/elizabeth-martinez-card.png"
           },
           "assistant2": {
-            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/assistant-2.png"
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/yasmine-davis-card.png"
           },
           "heading": {
             "text": "The Support You Need To Pursue Your Passion"
@@ -240,7 +245,7 @@
           "heading": "A Deal Flow Cheat Sheet For Venture Capitalists On The Hunt",
           "paragraph": "From sourcing and evaluation through to client management, this step-by-step cheat sheet will help you navigate the modern world of venture capitalism in 5 comprehensive chapters. In the eBook, you’ll learn:",
           "ebook": {
-            "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/ebook-graphic.png"
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/Ebook-graphic.png"
           },
           "bullets": {
             "icon": {
@@ -296,7 +301,7 @@
               "quote": {
                 "opacity": 0.7,
                 "person": {
-                  "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                  "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/phil.png",
                   "name": "Phil N.",
                   "title": "Investment Banker"
                 },
@@ -316,7 +321,8 @@
               "quote": {
                 "opacity": 0.7,
                 "person": {
-                  "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                  "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/grant.png",
+
                   "name": "Grant M.",
                   "title": "Associate Venture Capitalist"
                 },
@@ -336,7 +342,8 @@
               "quote": {
                 "opacity": 0.7,
                 "person": {
-                  "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+                  "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/brenda.png",
+
                   "name": "Brenda S.",
                   "title": "Fund Manager"
                 },
