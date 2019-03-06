@@ -23,12 +23,12 @@
           "cta1": {
             "text": "Get It Started!",
             "color": "green",
-            "to": "#getStarted"
+            "to": "/plan-pricing"
           },
           "cta2": {
             "text": "Free Consultation",
             "color": "blueLightGhost",
-            "to": "#freeConsultation"
+            "to": "/request-a-consultation"
           }
         }
       },
@@ -94,12 +94,12 @@
           "cta1": {
             "text": "Get Started",
             "color": "green",
-            "to": "#getStarted"
+            "to": "/plan-pricing"
           },
           "cta2": {
             "text": "Free Consultation",
             "color": "blueGhost",
-            "to": "#freeConsultation"
+            "to": "/request-a-consultation"
           }
         }
       },
@@ -197,12 +197,12 @@
           "cta1": {
             "text": "Get Started",
             "color": "green",
-            "to": "#getStarted"
+            "to": "/plan-pricing"
           },
           "cta2": {
             "text": "Free Consultation",
             "color": "blueGhost",
-            "to": "#freeConsultation"
+            "to": "/request-a-consultation"
           }
         }
       },
@@ -235,7 +235,7 @@
           "cta": {
             "text": "Find Your Assistant",
             "color": "green",
-            "to": "#findYourAssistant"
+            "to": "/plan-pricing"
           }
         }
       },
@@ -278,12 +278,12 @@
           "cta1": {
             "text": "Get Started",
             "color": "green",
-            "to": "#getStarted"
+            "to": "/plan-pricing"
           },
           "cta2": {
             "text": "Free Consultation",
             "color": "blueGhost",
-            "to": "#freeConsultation"
+            "to": "/request-a-consultation"
           }
         }
       },
@@ -393,7 +393,7 @@
             "cta": {
               "text": "Pick Your Plan",
               "color": "green",
-              "to": "#pickYourPlan"
+              "to": "/plans-pricing"
             },
             "bullets": {
               "color": "white",
@@ -425,7 +425,7 @@
             "cta": {
               "text": "Schedule Now",
               "color": "blue",
-              "to": "#scheduleNow"
+              "to": "/request-a-consultation"
             },
             "bullets": {
               "color": "blue",
