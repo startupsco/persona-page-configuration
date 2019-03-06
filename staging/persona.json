@@ -143,7 +143,11 @@
           "title": {
             "text": "Here’s How Zirtual Can Help You"
           },
-          "featuresLink": null,
+          "featuresLink": {
+            "text": "See all of our amazing features",
+            "color": "blue",
+            "href": "/what-we-do"
+          },
           "primaryFeatures": {
             "component": "card",
             "heightAuto": true,
