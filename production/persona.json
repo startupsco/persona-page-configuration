@@ -23,7 +23,7 @@
           "cta1": {
             "text": "Get It Started!",
             "color": "green",
-            "to": "/plan-pricing"
+            "to": "/plans-pricing"
           },
           "cta2": {
             "text": "Free Consultation",
@@ -94,7 +94,7 @@
           "cta1": {
             "text": "Get Started",
             "color": "green",
-            "to": "/plan-pricing"
+            "to": "/plans-pricing"
           },
           "cta2": {
             "text": "Free Consultation",
@@ -197,7 +197,7 @@
           "cta1": {
             "text": "Get Started",
             "color": "green",
-            "to": "/plan-pricing"
+            "to": "/plans-pricing"
           },
           "cta2": {
             "text": "Free Consultation",
@@ -235,7 +235,7 @@
           "cta": {
             "text": "Find Your Assistant",
             "color": "green",
-            "to": "/plan-pricing"
+            "to": "/plans-pricing"
           }
         }
       },
@@ -278,7 +278,7 @@
           "cta1": {
             "text": "Get Started",
             "color": "green",
-            "to": "/plan-pricing"
+            "to": "/plans-pricing"
           },
           "cta2": {
             "text": "Free Consultation",
