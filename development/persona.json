@@ -8,8 +8,8 @@
       {
         "type": "PersonaHero",
         "props": {
-          "desktopBackgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/hero_bg_left_gradient.png",
-          "mobileBackgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/hero_bg_mobile_top_gradient.png",
+          "desktopBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_left_gradient.jpg",
+          "mobileBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_mobile_top_gradient.jpg",
           "title": {
             "text": "Invest Your Trust In Zirtual",
             "color": "white",
@@ -52,7 +52,7 @@
           "color": "white",
           "cards": [
             {
-              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/pick_your_plan.svg",
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/pick_your_plan.svg",
               "title": {
                 "text": "Select Your Plan",
                 "color": "black",
@@ -65,7 +65,7 @@
               }
             },
             {
-              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/delegate_tasks.svg",
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/delegate_tasks.svg",
               "title": {
                 "text": "Delegate Your Tasks",
                 "color": "black",
@@ -78,7 +78,7 @@
               }
             },
             {
-              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/goal_achieved.svg",
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/goal_achieved.svg",
               "title": {
                 "text": "Deal Flow Achieved",
                 "color": "black",
@@ -107,7 +107,7 @@
         "type": "PersonaIsHard",
         "props": {
           "color": "blueBlack",
-          "backgroundImageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/collage_bg.png",
+          "backgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/collage_bg.png",
           "backgroundSize": "cover",
           "backgroundPosition": "50% 0",
           "paragraph": [
@@ -125,7 +125,7 @@
           "quote": {
             "opacity": 0.7,
             "person": {
-              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/ian.png",
               "name": "Ian Crosby",
               "title": "Co-Founder and CEO",
               "text": "This is great!",
