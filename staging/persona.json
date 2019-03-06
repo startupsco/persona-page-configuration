@@ -52,7 +52,7 @@
           "color": "white",
           "cards": [
             {
-              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/pick_your_plan.svg",
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/pick_your_plan.svg",
               "title": {
                 "text": "Select Your Plan",
                 "color": "black",
@@ -65,7 +65,7 @@
               }
             },
             {
-              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/delegate_tasks.svg",
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/delegate_tasks.svg",
               "title": {
                 "text": "Delegate Your Tasks",
                 "color": "black",
@@ -78,7 +78,7 @@
               }
             },
             {
-              "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/icons/goal_achieved.svg",
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/goal_achieved.svg",
               "title": {
                 "text": "Deal Flow Achieved",
                 "color": "black",
