@@ -80,12 +80,12 @@
             {
               "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/goal_achieved.svg",
               "title": {
-                "text": "Deal Flow Achieved",
+                "text": "Close More Deals",
                 "color": "black",
                 "size": "2xsmall"
               },
               "subtitle": {
-                "text": "We’ll sync to your preferred workflow and begin taking care of the administrative details that hamper the important decisions.",
+                "text": "With your repetitive admin tasks in good hands, you can focus on activities that matter: sourcing high-value leads, closing deals, and finding that elusive unicorn.",
                 "color": "black",
                 "size": "medium"
               }
