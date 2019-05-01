@@ -1,0 +1,449 @@
+[
+  {
+    "page": {
+      "title": "Virtual Assistants for Real Estate Agents",
+      "slug": "/who-we-serve/venture-capitalists"
+    },
+    "blocks": [
+      {
+        "type": "PersonaHero",
+        "props": {
+          "desktopBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_left_gradient.jpg",
+          "mobileBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_mobile_top_gradient.jpg",
+          "title": {
+            "text": "Invest Your Trust In Zirtual",
+            "color": "white",
+            "size": "large"
+          },
+          "subtitle": {
+            "text": "Highly trained Virtual Assistants for opportunity-driven venture capitalists.",
+            "color": "blueLight",
+            "size": "xlarge"
+          },
+          "cta1": {
+            "text": "Get It Started!",
+            "color": "green",
+            "to": "/plans-pricing"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueLightGhost",
+            "to": "/request-a-consultation"
+          }
+        }
+      },
+      {
+        "type": "HappyQuote",
+        "props": {
+          "color": "tan",
+          "quote": {
+            "text": "“Zirtual helps to bridge the gap between our current resources and processes, and to ensure a robust pipeline and success rate.”",
+            "color": "grayDark",
+            "size": "xlarge",
+            "attribution": "Neil Katz, Venture Capitalist"
+          }
+        }
+      },
+      {
+        "type": "BusyPersonas",
+        "props": {
+          "title": "Find The Diamond Deal In The Rough With Zirtual",
+          "subtitle": "We deal with the small administrative details while you secure the big wins in three simple steps:",
+          "color": "white",
+          "cards": [
+            {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/pick_your_plan.svg",
+              "title": {
+                "text": "Select Your Plan",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We'll match you with a US-based, college-educated point person who works remotely as your right hand and left brain.",
+                "color": "black",
+                "size": "medium"
+              }
+            },
+            {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/delegate_tasks.svg",
+              "title": {
+                "text": "Delegate Your Tasks",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We’ll review your needs, systems and preferences so we’re up-and-running on Day 1. You delegate a task and your personal VA is on it.",
+                "color": "black",
+                "size": "medium"
+              }
+            },
+            {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/goal_achieved.svg",
+              "title": {
+                "text": "Close More Deals",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "With your repetitive admin tasks in good hands, you can focus on activities that matter: sourcing high-value leads, closing deals, and finding that elusive unicorn.",
+                "color": "black",
+                "size": "medium"
+              }
+            }
+          ],
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "/plans-pricing"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "/request-a-consultation"
+          }
+        }
+      },
+      {
+        "type": "PersonaIsHard",
+        "props": {
+          "color": "blueBlack",
+          "backgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/collage_bg.png",
+          "backgroundSize": "cover",
+          "backgroundPosition": "50% 0",
+          "paragraph": [
+            {
+              "opacity": 1.0,
+              "text": "Our Virtual Assistants go above-and-beyond so that you’re able to focus on sourcing deals, networking with entrepreneurs, and discovering that one diamond startup in the rough. Your personal VA will deliver an effective deal flow, respond promptly to inquiries, and filter inbound deals. Why? Because your time is important and shouldn’t be wasted on non-critical tasks that divert your attention from investment opportunities."
+            }
+          ],
+          "subtitle": {
+            "text": "Zirtual understands that opportunity for investment can be overwhelmed by administration.",
+            "color": "blueLight",
+            "size": "xlarge"
+          },
+          "title": "Rise Above The Filtration Level",
+          "quote": {
+            "opacity": 0.7,
+            "person": {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/ian.png",
+              "name": "Ian Crosby",
+              "title": "Co-Founder and CEO",
+              "text": "This is great!",
+              "company": "Bench.co"
+            },
+            "text": "Zirtual is simple, accessible and effective; working with Jessica has been great.",
+            "size": "xlarge"
+          }
+        }
+      },
+      {
+        "type": "FavoriteFeature",
+        "props": {
+          "color": "tan",
+          "title": {
+            "text": "Here’s How Zirtual Can Help You"
+          },
+          "featuresLink": {
+            "text": "See all of our amazing features",
+            "color": "blue",
+            "href": "/what-we-do"
+          },
+          "primaryFeatures": {
+            "component": "card",
+            "heightAuto": true,
+            "grid": {
+              "lap": 3,
+              "hands2": 6,
+              "hands": 6
+            },
+            "features": [
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/administration.svg",
+                "title": { "text": "Administration", "size": "2xsmall" },
+                "text": "A defined scope of service that includes inbox and deal flow management, calendar scheduling, and trend research and forecasting."
+              },
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/personal-assistant.svg",
+
+                "title": { "text": "Personal Assistance", "size": "2xsmall" },
+                "text": "Free up time so you’re able to focus on your passions. Your personal VA will manage appointments, to-do tasks, and paperwork."
+              },
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/email-mgmt.svg",
+
+                "title": { "text": "Email Management", "size": "2xsmall" },
+                "text": "Declutter and filter inbound deals, inquiries, and meeting requests with a VA who’s vastly experienced in email management."
+              },
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/scheduling.svg",
+
+                "title": { "text": "Scheduling", "size": "2xsmall" },
+                "text": "Save precious hours each week and spend them on networking and deal-sourcing while your VA keeps your calendar organized and efficient."
+              },
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/invoicing.svg",
+
+                "title": { "text": "Invoicing", "size": "2xsmall" },
+                "text": "Focus on critical tasks and avoid unnecessary paperwork as your personal VA creates, sends, and follows up on invoices and documentation."
+              },
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/research.svg",
+
+                "title": { "text": "Research", "size": "2xsmall" },
+                "text": "Take your precious time back. Nurture and grow your portfolio as your VA researches industry trends and business prospects."
+              }
+            ]
+          },
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "/plans-pricing"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "/request-a-consultation"
+          }
+        }
+      },
+      {
+        "type": "PerfectAssistants",
+        "props": {
+          "color": "tanDark",
+          "assistant1": {
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/elizabeth-martinez-card.png"
+          },
+          "assistant2": {
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/yasmine-davis-card.png"
+          },
+          "heading": {
+            "text": "The Support You Need To Pursue Your Passion"
+          },
+          "bullets": {
+            "icon": {
+              "color": "bluePastel",
+              "shape": "ion-android-checkbox-outline",
+              "size": "3xsmall"
+            },
+            "items": [
+              "Due to the nature of your work, our selected VAs are trustworthy, ethical, and discreet.",
+              "Our VAs comprehend the intricacies of sourcing, evaluating, and managing contracts.",
+              "A rigorous, multi-step vetting process ensures they have the skills necessary to support you from the get-go, with no exhaustive training required.",
+              "US-based, college-educated, and native English speakers."
+            ]
+          },
+          "cta": {
+            "text": "Find Your Assistant",
+            "color": "green",
+            "to": "/plans-pricing"
+          }
+        }
+      },
+      {
+        "type": "TopFiveThings",
+        "props": {
+          "color": "white",
+          "heading": "A Deal Flow Cheat Sheet For Venture Capitalists On The Hunt",
+          "paragraph": "From sourcing and evaluation through to client management, this step-by-step cheat sheet will help you navigate the modern world of venture capitalism in 5 comprehensive chapters. In the eBook, you’ll learn:",
+          "ebook": {
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/Ebook-graphic.png"
+          },
+          "bullets": {
+            "icon": {
+              "color": "bluePastel",
+              "shape": "ion-android-checkbox-outline",
+              "size": "3xsmall"
+            },
+            "items": [
+              "How the filtration phase can be an opportunity killer.",
+              "Why dealing with administrative duties can be a deal breaker.",
+              "How delegation lets you concentrate on closing lucrative deals.",
+              "The difference between hiring an employee and choosing a Virtual Assistant.",
+              "How Zirtual’s experienced, trustworthy VAs will shoulder the administrative weight for greater investment success."
+            ]
+          }
+        }
+      },
+      {
+        "type": "FinalRequest",
+        "props": {
+          "color": "tan",
+          "title": "We Simplify Your Life. You Close More Deals.",
+          "containerWidth": "medium",
+          "maxWidth": null,
+          "paragraph": {
+            "text": "Don’t sweat the small stuff. Concentrate on the big wins. Find the perfect Virtual Assistant for you and invest your time in the areas that stimulate success: discovering deals, networking with visionary entrepreneurs, investing, and being first-in-line to close that lucrative contract."
+          },
+
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "/plans-pricing"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "/request-a-consultation"
+          }
+        }
+      },
+      {
+        "type": "AlternatingQuoteStack",
+        "props": {
+          "valuePropositions": [
+            {
+              "title": "Don’t Be Your Own Worst Enemy",
+              "paragraph": [
+                {
+                  "opacity": 0.7,
+                  "text": "Administration such as email management, scheduling, and filtering can seriously hamper the growth of your investment portfolio. And in our fast-paced world, you need all the time you can get to stay ahead of competitors."
+                }
+              ],
+              "quote": {
+                "opacity": 0.7,
+                "person": {
+                  "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/phil.png",
+                  "name": "Phil N.",
+                  "title": "Investment Banker"
+                },
+                "text": "\"I used to waste a ton of time on my inbox, my calendar, and in doing basic diligence on companies in my deal pipeline. Now Zirtual handles that and I focus on the cream.\"",
+
+                "size": "xlarge"
+              }
+            },
+            {
+              "title": "There’s No Harm In Seeking Help",
+              "paragraph": [
+                {
+                  "opacity": 0.7,
+                  "text": "Why carry the weight of non-critical tasks alone? By delegating administration and slow processes to an experienced assistant, you’re able to pour your talent into what truly matters: portfolio growth and profitability."
+                }
+              ],
+              "quote": {
+                "opacity": 0.7,
+                "person": {
+                  "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/grant.png",
+
+                  "name": "Grant M.",
+                  "title": "Associate Venture Capitalist"
+                },
+                "text": "\"I used to take pride in doing everything myself. Now, I delegate everything I can to Zirtual, and take pride in doing more deals a year than ever!\"",
+
+                "size": "xlarge"
+              }
+            },
+            {
+              "title": "Simplify Your Deal Flow",
+              "paragraph": [
+                {
+                  "opacity": 0.7,
+                  "text": "Whether unearthing a lead or applying your mind to the management of a complex deal, an efficient, attentive Virtual Assistant will give you the time you need to ensure it’s done right."
+                }
+              ],
+              "quote": {
+                "opacity": 0.7,
+                "person": {
+                  "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/brenda.png",
+
+                  "name": "Brenda S.",
+                  "title": "Fund Manager"
+                },
+                "text": "\"To call what we had before Zirtual a pipeline would be generous. Now, we've got a real process, and know who is doing what, and when. A world of difference in our deal management.\"",
+
+                "size": "xlarge"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "FinalRequest",
+        "props": {
+          "color": "white",
+          "title": "Zirtual Is Here For You",
+          "subtitle": {
+            "text": "With a personal assistant trained in deal flow management.",
+            "size": "xlarge",
+            "color": "grayDark"
+          },
+          "paragraph": {
+            "text": "Zirtual has a wealth of experience in the industry and a proven track record of elevating our investor clients to the next tier of success. Our skilled Virtual Assistants will remove the obstacles that hamper daily operations by honing your deal flow to maximum efficiency.",
+            "size": "xlarge",
+            "color": "grayDark"
+          }
+        }
+      },
+      {
+        "type": "SideBySideCTA",
+        "props": {
+          "block1": {
+            "color": "#3b79bf",
+            "heading": {
+              "text": "Explore Plans and Pricing",
+              "color": "white"
+            },
+            "subtitle": {
+              "text": "Find the package that’s perfect for your process.",
+              "color": "white",
+              "size": "xlarge",
+              "style": {
+                "color": "#C0E1FF"
+              }
+            },
+            "cta": {
+              "text": "Pick Your Plan",
+              "color": "green",
+              "to": "/plans-pricing"
+            },
+            "bullets": {
+              "color": "white",
+              "icon": {
+                "color": "white",
+                "shape": "ion-android-checkbox-outline",
+                "size": "3xsmall"
+              },
+              "items": [
+                "Small task work to keep on top of things.",
+                "Project work that goes beyond inbox and scheduling.",
+                "Part-time assistance just shy of a full-time employee.",
+                "A Virtual Assistant adept at handling demanding workloads."
+              ]
+            }
+          },
+          "block2": {
+            "color": "#c2e1ff",
+            "heading": {
+              "text": "Book A Consultation",
+              "color": "blue"
+            },
+            "subtitle": {
+              "text": "Take action by chatting to a Zirtual specialist about your options.",
+              "color": "blue",
+              "opacity": 0.7,
+              "size": "xlarge"
+            },
+            "cta": {
+              "text": "Schedule Now",
+              "color": "blue",
+              "to": "/request-a-consultation"
+            },
+            "bullets": {
+              "color": "blue",
+              "icon": {
+                "color": "blue",
+                "shape": "ion-android-checkbox-outline",
+                "size": "3xsmall"
+              },
+              "items": [
+                "Find the ideal package for your workflow.",
+                "Be introduced to your personal Virtual Assistant.",
+                "Simplify your deal flow through delegation.",
+                "Watch your portfolio grow."
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+]
