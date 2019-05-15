@@ -112,7 +112,7 @@
         "type": "PersonaIsHard",
         "props": {
           "color": "blueBlack",
-          "backgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/collage_bg.png",
+          "backgroundImageUrl": null,
           "backgroundSize": "cover",
           "backgroundPosition": "50% 0",
           "paragraph": [
