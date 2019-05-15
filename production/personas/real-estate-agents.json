@@ -11,12 +11,12 @@
           "desktopBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_left_gradient.jpg",
           "mobileBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_mobile_top_gradient.jpg",
           "title": {
-            "text": "Free Up Time To Sell More Homes",
+            "text": "Sell More Homes with a Zirtual Assistant",
             "color": "white",
             "size": "large"
           },
           "subtitle": {
-            "text": "With our highly trained Virtual Assistants for overwhelmed realtors.",
+            "text": "Our highly trained Virtual Assistants help overwhelmed real estate agents become top performers.",
             "color": "blueLight",
             "size": "xlarge"
           },
@@ -37,18 +37,21 @@
         "props": {
           "color": "tan",
           "quote": {
-            "text": "“Zirtual helps to bridge the gap between our current resources and processes, and to ensure a robust pipeline and success rate.”",
+            "text": "“I stopped being overwhelmed. I stopped being busy.  I started being productive. I started selling more homes. Amazing what taking non-essential tasks of my plate did for me.”",
             "color": "grayDark",
             "size": "xlarge",
-            "attribution": "Neil Katz, Venture Capitalist"
+            "attribution": "Jessica L. -Real Estate Agent"
           }
         }
       },
       {
         "type": "BusyPersonas",
         "props": {
-          "title": "Take Administration Out Of The Equation",
-          "subtitle": "We deal with the important smaller tasks so you can network with the right people to secure high value properties and grow your career. All you need to do is:",
+          "title": "Take Administration out of the Home Sale Equation",
+          "subtitle":"We deal with the important smaller tasks so you to secure high-value properties, close more contracts, and grow your career. All you need to do is:",
+
+
+
           "color": "white",
           "cards": [
             {
@@ -60,6 +63,8 @@
               },
               "subtitle": {
                 "text": "We'll match you with a US-based, tech-savvy point person who understands the pressures, challenges, and pitfalls of the property market.",
+
+
                 "color": "black",
                 "size": "medium"
               }
@@ -80,7 +85,7 @@
             {
               "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/goal_achieved.svg",
               "title": {
-                "text": "Pursue Your Passion",
+                "text": "Close More Contracts",
                 "color": "black",
                 "size": "2xsmall"
               },
@@ -113,11 +118,11 @@
           "paragraph": [
             {
               "opacity": 1.0,
-              "text": "Our responsive, proactive Virtual Assistants go above-and-beyond so that you can focus on generating more prospects, buyer agreements, listings, and closings. By shifting the smaller tasks weighing you down, you gain a competitive edge, more clients, greater sales, and maybe even a weekend or two. Don’t you think it’s time to reap the benefits of the long hours you put in?"
+              "text": "Top-perfoming agents all have one thing in common; they focus on the most critical parts of the process and delegate the rest. Our responsive, proactive Virtual Assistants go above-and-beyond so that you can focus on generating more prospects, buyer agreements, listings, and closings. By shifting the smaller tasks weighing you down, you gain a competitive edge, more clients, greater sales, and maybe even a weekend or two. Don’t you think it’s time to reap the benefits of the long hours you put in?"
             }
           ],
           "subtitle": {
-            "text": "Get the time you need to be the best agent you can be.",
+            "text": "Get the time you need to be the best agent in your market.",
             "color": "blueLight",
             "size": "xlarge"
           },
@@ -126,12 +131,10 @@
             "opacity": 0.7,
             "person": {
               "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/ian.png",
-              "name": "Ian Crosby",
-              "title": "Co-Founder and CEO",
-              "text": "This is great!",
-              "company": "Bench.co"
+              "name": "Barry W.",
+              "title": "Real Estate Brokerage Owner"
             },
-            "text": "Zirtual is simple, accessible and effective; working with Jessica has been great.",
+            "text": "I used to wonder why I couldn’t focus - why my days seemed out of my control. Now, I wonder how I ever got anything done before Zirtual.",
             "size": "xlarge"
           }
         }
@@ -141,7 +144,7 @@
         "props": {
           "color": "tan",
           "title": {
-            "text": "Here’s How We’ll Help You"
+            "text": "Our Real Estate Administrators Can Help With"
           },
           "featuresLink": {
             "text": "See all of our amazing features",
@@ -256,11 +259,11 @@
               "size": "3xsmall"
             },
             "items": [
-              "With platforms like Zillow gaining traction, we ask the question: are realtors still relevant in 2019? We have some thoughts.",
+              "Are realtors still relevant in the age of Zillow? We have the answer.",
               "Learn how you can drive traffic to convert more leads with a hyper-local IDX website.",
-              "Maximizing buyer and seller leads with a CRM is one sure way to up sales. We tell you how.",
-              "Social media and digital content can help to build a community around your brokerage. We’ll tell you how to grow one with the help of a Virtual Assistant.",
-              "Learn how to reach new career heights as a Zirtual Virtual Assistant takes on the smaller tasks so you secure the big sales."
+              "We tell you how to maximizing buyer and seller leads with the CRM practices of market leaders.",
+              "How to leverage social media and digital content to build a community of prospects and referrals without having to do it yourself.",
+              "Learn the delegation secrets of top-performers and how-to implement them today"
             ]
           }
         }
@@ -304,10 +307,10 @@
                 "opacity": 0.7,
                 "person": {
                   "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/phil.png",
-                  "name": "Phil N.",
-                  "title": "Investment Banker"
+                  "name": "Meredith F.",
+                  "title": "Real Estate Agent"
                 },
-                "text": "\"I used to waste a ton of time on my inbox, my calendar, and in doing basic diligence on companies in my deal pipeline. Now Zirtual handles that and I focus on the cream.\"",
+                "text": "\"I used to have a really big problem. And that really big problem was really little tasks. They just piled up and piled up. Now Amanda keeps that from happening. I stay focused, and everything gets done, when it should get done.\"",
 
                 "size": "xlarge"
               }
@@ -325,10 +328,10 @@
                 "person": {
                   "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/grant.png",
 
-                  "name": "Grant M.",
-                  "title": "Associate Venture Capitalist"
+                  "name": "Valeria",
+                  "title": "Real Estate Broker"
                 },
-                "text": "\"I used to take pride in doing everything myself. Now, I delegate everything I can to Zirtual, and take pride in doing more deals a year than ever!\"",
+                "text": "\"I used to tell people that I loved my job. And it was mostly true. Now, when I tell people I love my job, its 100% true. I got rid of the admin tasks that ate my time, and my energy and interrupted the parts of real estate that I loved the most. Zirtual does that now, so I don’t have to.\"",
 
                 "size": "xlarge"
               }
@@ -346,10 +349,10 @@
                 "person": {
                   "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/brenda.png",
 
-                  "name": "Brenda S.",
-                  "title": "Fund Manager"
+                  "name": "Sammi P.",
+                  "title": " Real Estate Agent"
                 },
-                "text": "\"To call what we had before Zirtual a pipeline would be generous. Now, we've got a real process, and know who is doing what, and when. A world of difference in our deal management.\"",
+                "text": "\"If you asked my husband what the most common response to ANY question was last year, it would be “just about another hour”. That was my everyday - just another hour for this, just another hour for that. It never ended, where was always more to do. Now, with a Zirtual Assistant, I can say yes to another hour of time with my family, and still be an amazing Realtor.\"",
 
                 "size": "xlarge"
               }
@@ -414,7 +417,7 @@
           "block2": {
             "color": "#c2e1ff",
             "heading": {
-              "text": "Book A Consultation",
+              "text": "Book a Consultation",
               "color": "blue"
             },
             "subtitle": {
