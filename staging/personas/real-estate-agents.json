@@ -306,7 +306,7 @@
               "quote": {
                 "opacity": 0.7,
                 "person": {
-                  "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/phil.png",
+                  "imageUrl": null,
                   "name": "Meredith F.",
                   "title": "Real Estate Agent"
                 },
@@ -326,7 +326,8 @@
               "quote": {
                 "opacity": 0.7,
                 "person": {
-                  "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/grant.png",
+                  "imageUrl": null,
+
 
                   "name": "Valeria",
                   "title": "Real Estate Broker"
@@ -347,7 +348,8 @@
               "quote": {
                 "opacity": 0.7,
                 "person": {
-                  "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/bios/brenda.png",
+                  "imageUrl": null,
+
 
                   "name": "Sammi P.",
                   "title": " Real Estate Agent"
