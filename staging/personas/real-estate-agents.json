@@ -111,7 +111,7 @@
       {
         "type": "PersonaIsHard",
         "props": {
-          "color": "#1D2734",
+          "color": "blueBlack",
           "backgroundImageUrl": null,
           "backgroundSize": "cover",
           "backgroundPosition": "50% 0",
