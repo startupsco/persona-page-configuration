@@ -246,7 +246,8 @@
           "heading": "A Deal Flow Cheat Sheet For Venture Capitalists On The Hunt",
           "paragraph": "From sourcing and evaluation through to client management, this step-by-step cheat sheet will help you navigate the modern world of venture capitalism in 5 comprehensive chapters. In the eBook, you’ll learn:",
           "ebook": {
-            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/Ebook-graphic.png"
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/Ebook-graphic.png",
+            "form": "e5fec020-eab2-426a-be6e-0ccdd46f64b3",
           },
           "bullets": {
             "icon": {
