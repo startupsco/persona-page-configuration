@@ -83,7 +83,7 @@
             "text": "And more, just ask our consultants",
             "color": "black",
             "noUnderline": true,
-            "href": "/what-we-do"
+            "href": "/request-a-consultation"
           },
           "primaryFeatures": {
             "component": "card",
@@ -167,10 +167,8 @@
                 },
                 "spacer": 7,
                 "title": { "text": "Event Planning", "size": "3xsmall" },
-                "text": "Research, book, and manage vendors, handle invitations and guest lists.",
-                "link": {
-                  "to": "/here"
-                }
+                "text": "Research, book, and manage vendors, handle invitations and guest lists."
+
               },
               {
                 "zIcon": {
@@ -251,9 +249,6 @@
                 "title": {
                   "text": "Calendar & Task Management",
                   "size": "3xsmall"
-                },
-                "link": {
-                  "to": "/here"
                 }
               },
               {
@@ -309,6 +304,7 @@
             "margin": "4xlarge",
             "size": "xlarge",
             "text": "See Plans",
+            "to": "/plans-pricing",
             "width": "xlarge"
           }
         }
@@ -363,7 +359,7 @@
           "cta1": {
             "text": "See our FAQs",
             "color": "green",
-            "to": "/plans-pricing"
+            "to": "/faqs"
           },
           "cta2": {
             "text": "Free Consultation",
