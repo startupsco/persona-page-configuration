@@ -68,7 +68,7 @@
             "features": [
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-mailbox",
                   "color": false,
                   "size": "3xlarge"
                 },
@@ -78,7 +78,7 @@
               },
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-lifering",
                   "color": false,
                   "size": "3xlarge"
                 },
@@ -88,7 +88,7 @@
               },
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-social-media-mgmt",
                   "color": false,
                   "size": "3xlarge"
                 },
@@ -98,7 +98,7 @@
               },
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-content-mktg",
                   "color": false,
                   "size": "3xlarge"
                 },
@@ -108,7 +108,7 @@
               },
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-calendar",
                   "color": false,
                   "size": "3xlarge"
                 },
@@ -128,7 +128,7 @@
               },
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-book-light",
                   "color": false,
                   "size": "3xlarge"
                 },
@@ -138,7 +138,7 @@
               },
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-microscope",
                   "color": false,
                   "size": "3xlarge"
                 },
@@ -167,7 +167,7 @@
             "features": [
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-data-entry",
                   "color": false,
                   "size": "3xlarge"
                 },
@@ -176,7 +176,7 @@
               },
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-money-ribbon",
                   "color": false,
                   "size": "3xlarge"
                 },
@@ -185,7 +185,7 @@
               },
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-checkmark-blue",
                   "color": false,
                   "size": "3xlarge"
                 },
@@ -206,7 +206,7 @@
               },
               {
                 "zIcon": {
-                  "icon": "z-briefcase",
+                  "icon": "z-marketing",
                   "color": false,
                   "size": "3xlarge"
                 },
