@@ -23,6 +23,34 @@
           },
           "cta1": false,
           "cta2": false,
+          "siteNav": {
+            "primaryItems": [
+              { "type": "link", "label": "What We Do", "href": "/what-we-do" },
+              {
+                "type": "link",
+                "label": "Why Zirtual?",
+                "href": "/why-zirtual"
+              },
+              { "type": "link", "label": "FAQs", "href": "/faqs" }
+            ],
+            "secondaryItemsLoggedOut": [
+              {
+                "type": "link",
+                "label": "(800) 997-9714",
+                "href": "tel:8009979714"
+              },
+              {
+                "type": "button",
+                "label": "Plans & Pricing",
+                "href": "/plans-pricing",
+                "color": "blueBlack"
+              }
+            ],
+            "secondaryItemsLoggedIn": [
+              { "type": "link", "label": "My Account", "href": "/account" },
+              { "type": "link", "label": "Logout", "href": "/logout" }
+            ]
+          },
           "layout": "center"
         }
       },
