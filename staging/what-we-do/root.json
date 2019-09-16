@@ -208,7 +208,11 @@
                 "zIcon": {
                   "icon": "z-marketing",
                   "color": false,
-                  "size": "3xlarge"
+                  "size": "3xlarge",
+                  "style": {
+                    "height": "60px",
+                    "width": "60px"
+                  }
                 },
                 "spacer": 7,
                 "title": { "text": "Website Maintenance", "size": "3xsmall" }
