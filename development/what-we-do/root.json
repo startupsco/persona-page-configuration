@@ -1,0 +1,311 @@
+[
+  {
+    "page": {
+      "title": "What We Do",
+      "slug": "/what-we-do"
+    },
+    "blocks": [
+      {
+        "type": "PersonaHero",
+        "props": {
+          "desktopBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/task-management/busy-professional.jpg",
+          "mobileBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_mobile_top_gradient.jpg",
+          "title": {
+            "text": "Task Management for Work and Life",
+            "color": "white",
+            "padding": false,
+            "size": "xlarge"
+          },
+          "subtitle": {
+            "text": "We help busy professionals get more done.",
+            "color": "blueLight",
+            "padding": false
+          },
+          "cta1": false,
+          "cta2": false,
+          "layout": "center"
+        }
+      },
+      {
+        "type": "HappyQuote",
+        "props": {
+          "color": "blueBlack",
+          "quote": {
+            "text": "A quote of a really happy persona claiming this was the best choice they ever made.",
+            "size": "2xlarge",
+            "attribution": "Persona"
+          }
+        }
+      },
+      {
+        "type": "FavoriteFeature",
+        "props": {
+          "color": "tan",
+          "title": {
+            "text": "Some of Our Favorite Tasks"
+          },
+          "subtitle": {
+            "text": "We handle valuable day-to-day responsibilities. You achieve your goals."
+          },
+          "featuresLinkSpacer": 5,
+          "featuresLink": {
+            "arrowProps": {
+              "color": "green"
+            },
+            "text": "And more, just ask our consultants",
+            "color": "black",
+            "noUnderline": true,
+            "href": "/what-we-do"
+          },
+          "primaryFeatures": {
+            "component": "card",
+            "heightAuto": true,
+            "grid": {
+              "lap": 3,
+              "hands2": 6,
+              "hands": 6
+            },
+            "features": [
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Email Management", "size": "3xsmall" },
+                "text": "Organize and filter inboxes, create auto-responses and alerts."
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Personal Assistance", "size": "3xsmall" },
+                "text": "Household tasks, vacation planning, and scheduling."
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Social Media Strategy", "size": "3xsmall" },
+                "text": "Proofread and schedule posts, respond to comments, and interpret analytics."
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Marketing", "size": "3xsmall" },
+                "text": "Send and monitor email campaigns, create surveys, and refresh blog posts."
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Scheduling", "size": "3xsmall" },
+                "text": "Manage appointments, meetings, and upcoming events."
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Event Planning", "size": "3xsmall" },
+                "text": "Research, book, and manage vendors, handle invitations and guest lists."
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Travel Booking", "size": "3xsmall" },
+                "text": "Find deals, book hotels, flights, and cars, and organize itineraries."
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Research", "size": "3xsmall" },
+                "text": "In-depth research for any project, event, or travel plans."
+              }
+            ]
+          },
+          "secondaryFeatures": {
+            "component": "grid",
+            "heightAuto": true,
+            "cssGrid": {
+              "palm": {
+                "gridTemplateColumns": "1fr",
+                "width": "100%"
+              },
+              "hands": {
+                "gridTemplateColumns": "1fr 1fr",
+                "width": "100%"
+              },
+              "lap": {
+                "gridTemplateColumns": "1fr 1fr 1.5fr 1fr 1fr"
+              }
+            },
+            "features": [
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Data Entry", "size": "3xsmall" }
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Invoicing", "size": "3xsmall" }
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": {
+                  "text": "Calendar & Task Management",
+                  "size": "3xsmall"
+                }
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Executive Assistance", "size": "3xsmall" }
+              },
+              {
+                "zIcon": {
+                  "icon": "z-briefcase",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": { "text": "Website Maintenance", "size": "3xsmall" }
+              }
+            ]
+          },
+          "cta1": false,
+          "cta2": false
+        }
+      },
+      {
+        "type": "FormWithImage",
+        "props": {
+          "color": "white",
+          "heading": {
+            "text": "Go from overwhelmed to organized."
+          },
+
+          "paragraph": "Zirtual Virtual Assistants remove the most time-consuming administrative tasks from your plate. Instead of trying to do it all yourself, you will have more time to close deals, explore business ventures, and grow your start-up. Not to mention more time to spend with your family.",
+          "image": {
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/task-management/daily-planner.jpg"
+          },
+          "ctaLeftAlign": true,
+          "cta1": {
+            "color": "green",
+            "margin": "4xlarge",
+            "size": "xlarge",
+            "text": "See Plans",
+            "width": "xlarge"
+          }
+        }
+      },
+      {
+        "type": "BusyPersonas",
+        "props": {
+          "title": "The simplest way to get more done, faster.",
+          "subtitle": "Find the perfect virtual assistant in three easy steps.",
+          "color": "tan",
+          "cards": [
+            {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/pick_your_plan.svg",
+              "title": {
+                "text": "Select Your Plan",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We match you with a Virtual Assistant based on your time zone and custom preferences.",
+                "color": "black",
+                "size": "medium"
+              }
+            },
+            {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/delegate_tasks.svg",
+              "title": {
+                "text": "Delegate Your Tasks",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We sync with your systems and workflow so you’re up and running on day one.",
+                "color": "black",
+                "size": "medium"
+              }
+            },
+            {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/goal_achieved.svg",
+              "title": {
+                "text": "Persona Goal Achieved",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "Reach your Virtual Assistant through text or email and start checking things off your list.",
+                "color": "black",
+                "size": "medium"
+              }
+            }
+          ],
+          "cta1": {
+            "text": "See our FAQs",
+            "color": "green",
+            "to": "/plans-pricing"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "/request-a-consultation"
+          },
+          "callToAction": {
+            "text": "Still have questions?",
+            "size": "2xlarge",
+            "alignX": "center",
+            "style": { "fontWeight": "bold" }
+          }
+        }
+      }
+    ]
+  }
+]
