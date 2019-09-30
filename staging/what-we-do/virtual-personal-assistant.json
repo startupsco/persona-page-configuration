@@ -296,6 +296,14 @@
           "layout": "center",
           "desktopBackgroundImageUrl": "/persona/stop-being-busy.jpg",
           "mobileBackgroundImageUrl": "/persona/stop-being-busy.jpg",
+          "desktopBackgroundStyle": {
+            "backgroundPosition": "center",
+            "backgroundSize": "cover"
+          },
+          "mobileBackgroundStyle": {
+            "backgroundPosition": "center",
+            "backgroundSize": "cover"
+          },
           "title": {
             "text": "Find the most qualified Zirtual Personal Assistant for your to-do list.",
             "color": "white",
