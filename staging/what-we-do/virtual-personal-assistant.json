@@ -8,11 +8,28 @@
       {
         "type": "PersonaHeroV2",
         "props": {
-          "responsiveLayout": {
+          "thresholdConfiguration": {
             "palm": {
+              "layout": "center",
               "background": {
                 "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_mobile_top_gradient.jpg"
-              }
+              },
+              "ctas": [
+                {
+                  "style": {
+                    "marginRight": "5px",
+                    "width": "100%"
+                  }
+                },
+                {
+                  "style": {
+                    "marginLeft": 0,
+                    "marginTop": "1em",
+                    "borderColor": "#5DA2DF",
+                    "width": "calc(100% - 4px)"
+                  }
+                }
+              ]
             },
             "lap": {
               "background": {
@@ -22,9 +39,25 @@
               },
               "containerProps": {
                 "size": "4xlarge"
-              }
+              },
+              "ctas": [
+                {
+                  "style": {
+                    "marginRight": "5px",
+                    "width": 300
+                  }
+                },
+                {
+                  "style": {
+                    "borderColor": "#5DA2DF",
+                    "width": 300
+                  }
+                }
+              ]
             }
           },
+          "background": {},
+          "containerProps": {},
           "titles": [
             {
               "text": "Save Time.",
@@ -56,42 +89,13 @@
           "ctas": [
             {
               "color": "green",
-              "label": "Button",
-              "shape": "roundedRectangle",
-              "status": "default",
-              "size": "large",
-              "tag": "Link",
-              "tagProps": {},
               "to": "/plans-pricing",
-              "type": null,
-              "text": "See Plans",
-              "width": "auto",
-              "style": {
-                "marginRight": "5px",
-                "width": 300
-              }
+              "text": "See Plans"
             },
             {
               "color": "blueLightGhost",
-              "disabled": false,
-              "isFluid": false,
-              "label": "Button",
-              "margin": false,
-              "onClick": null,
-              "shape": "roundedRectangle",
-              "status": "default",
-              "size": "large",
-              "tag": "Link",
-              "tagProps": {},
               "to": "/request-a-consultation",
-              "text": "Free Consultation",
-              "type": null,
-              "width": "auto",
-              "style": {
-                "marginLeft": "5px",
-                "borderColor": "#5DA2DF",
-                "width": 300
-              }
+              "text": "Free Consultation"
             }
           ],
           "siteNav": {
@@ -129,9 +133,9 @@
         "props": {
           "color": "blueBlack",
           "quote": {
-            "text": "To say having a personal virtual assistant from Zirtual has changed my life...would be a gross understatement. I don’t recognize the busy, chaotic, and stressful life that used to be mine...thank you Zirtual!",
+            "text": "A quote of a really happy persona claiming this was the best choice they ever made.",
             "size": "2xlarge",
-            "attribution": "Chase L., Entrepreneur"
+            "attribution": "Persona"
           }
         }
       },
@@ -158,10 +162,10 @@
             "opacity": 0.7,
             "person": {
               "imageUrl": "https://staging-loft.startups.com/dist/_/loft/client/site/pages/Workspaces/Persona/images/graphics/placeholder_avatar.png",
-              "name": "Veronica B.",
-              "title": "Finance Executive"
+              "name": "Persona Name",
+              "title": "Persona Bio Details Here"
             },
-            "text": "\"I was crushing it career wise...but life outside work was crushing me. Now, Sarah handles all the things that used to overwhelm me. Life is good!\"",
+            "text": "\"A quote of a really happy persona that talks about how life was hard before their ZA, but is all better now thanks to ZA American Name.\"",
 
             "size": "xlarge"
           }
@@ -288,43 +292,99 @@
         }
       },
       {
-        "type": "PersonaHero",
+        "type": "PersonaHeroV2",
         "props": {
           "showNav": false,
           "ctaAlignment": "center",
+          "backgroundAlignment": "center",
           "vanchor": "top",
           "layout": "center",
-          "desktopBackgroundImageUrl": "/persona/stop-being-busy.jpg",
-          "mobileBackgroundImageUrl": "/persona/stop-being-busy.jpg",
-          "desktopBackgroundStyle": {
-            "backgroundPosition": "center",
-            "backgroundSize": "cover"
+          "background": {
+            "imageUrl": "/persona/stop-being-busy.jpg",
+            "style": {
+              "backgroundPosition": "center",
+              "backgroundSize": "cover"
+            }
           },
-          "mobileBackgroundStyle": {
-            "backgroundPosition": "center",
-            "backgroundSize": "cover"
-          },
-          "title": {
-            "text": "Find the most qualified Zirtual Personal Assistant for your to-do list.",
-            "color": "white",
-            "padding": false,
-            "size": "large"
-          },
-          "subtitle": {
-            "text": "Pick Your Plan. Delegate Your Tasks. Get More Done.",
-            "color": "blueLight",
-            "padding": false,
-            "size": "xlarge"
-          },
-          "cta1": {
-            "text": "Get Started",
-            "color": "green",
-            "to": "#getStarted"
-          },
-          "cta2": {
-            "text": "Free Consultation",
-            "color": "blueLightGhost",
-            "to": "#freeConsultation"
+          "titles": [
+            {
+              "text": "Find the most qualified Zirtual Personal Assistant for your to-do list.",
+              "color": "white",
+              "padding": false,
+              "size": "large"
+            }
+          ],
+          "subtitles": [
+            {
+              "text": "Pick Your Plan. Delegate Your Tasks. Get More Done.",
+              "color": "blueLight",
+              "padding": false,
+              "size": "xlarge"
+            }
+          ],
+          "ctas": [
+            {
+              "text": "Get Started",
+              "color": "green",
+              "to": "#getStarted",
+              "style": {
+                "marginRight": "5px",
+                "width": 300
+              }
+            },
+            {
+              "text": "Free Consultation",
+              "color": "blueLightGhost",
+              "to": "#freeConsultation",
+              "style": {
+                "marginLeft": "5px",
+                "borderColor": "#5DA2DF",
+                "width": 300
+              }
+            }
+          ],
+          "thresholdConfiguration": {
+            "palm": {
+              "layout": "center",
+              "ctas": [
+                {
+                  "style": {
+                    "marginRight": "5px",
+                    "width": "100%"
+                  }
+                },
+                {
+                  "style": {
+                    "marginLeft": 0,
+                    "marginTop": "1em",
+                    "borderColor": "#5DA2DF",
+                    "width": "calc(100% - 4px)"
+                  }
+                }
+              ]
+            },
+            "lap": {
+              "layout": "center",
+
+              "containerProps": {
+                "size": "4xlarge"
+              },
+              "ctas": [
+                {
+                  "style": {
+                    "marginRight": "5px",
+                    "width": 300
+                  }
+                },
+                {
+                  "style": {
+                    "marginLeft": "5px",
+                    "borderColor": "#5DA2DF",
+                    "width": 300
+                  }
+                }
+              ]
+            }
           }
         }
       },
@@ -347,23 +407,55 @@
             "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/virtual-personal-assistant/coffeehouse-clipboard.jpg"
           },
           "ctaLeftAlign": true,
-          "cta1":   {
+          "cta1": {
             "text": "Free Consultation",
             "color": "green",
             "to": "/request-a-consultation",
-            "style": {
-              "width": 297
-            }
+            "style": {}
           },
           "cta2": {
             "text": "Free Consultation",
             "color": "blueLightGhost",
             "to": "/request-a-consultation",
-            "style": {
-              "width": 235
+            "style": {}
+          },
+          "thresholdConfiguration": {
+            "palm": {
+              "cta1": {
+                "text": "Free Consultation",
+                "color": "green",
+                "to": "/request-a-consultation",
+                "style": {
+                  "width": "100%"
+                }
+              },
+              "cta2": {
+                "text": "Free Consultation",
+                "color": "blueLightGhost",
+                "to": "/request-a-consultation",
+                "style": {
+                  "width": "100%",
+                  "marginTop": "1em"
+                }
+              }
+            },
+            "hands2": {
+              "cta1": {
+                "text": "Free Consultation",
+                "color": "green",
+                "to": "/request-a-consultation",
+                "style": {}
+              },
+              "cta2": {
+                "text": "Free Consultation",
+                "color": "blueLightGhost",
+                "to": "/request-a-consultation",
+                "style": {}
+              }
             }
           }
-        }},
+        }
+      },
       {
         "type": "QuotesAndLogos",
         "props": {
