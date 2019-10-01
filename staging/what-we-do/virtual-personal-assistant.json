@@ -1,7 +1,7 @@
 [
   {
     "page": {
-      "title": "What We Do: Virtual Personal Assistant",
+      "title": "What We Do",
       "slug": "/what-we-do/virtual-personal-assistant"
     },
     "blocks": [
@@ -414,25 +414,19 @@
             "style": {}
           },
           "cta2": {
-            "text": "Free Consultation",
+            "text": "See Our FAQs",
             "color": "blueLightGhost",
-            "to": "/request-a-consultation",
+            "to": "/faqs",
             "style": {}
           },
           "thresholdConfiguration": {
             "palm": {
               "cta1": {
-                "text": "Free Consultation",
-                "color": "green",
-                "to": "/request-a-consultation",
                 "style": {
                   "width": "100%"
                 }
               },
               "cta2": {
-                "text": "Free Consultation",
-                "color": "blueLightGhost",
-                "to": "/request-a-consultation",
                 "style": {
                   "width": "100%",
                   "marginTop": "1em"
@@ -441,15 +435,9 @@
             },
             "hands2": {
               "cta1": {
-                "text": "Free Consultation",
-                "color": "green",
-                "to": "/request-a-consultation",
                 "style": {}
               },
               "cta2": {
-                "text": "Free Consultation",
-                "color": "blueLightGhost",
-                "to": "/request-a-consultation",
                 "style": {}
               }
             }
