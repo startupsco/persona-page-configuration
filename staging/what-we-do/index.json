@@ -9,7 +9,7 @@
         "type": "PersonaHero",
         "props": {
           "desktopBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/task-management/busy-professional.jpg",
-          "mobileBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_mobile_top_gradient.jpg",
+          "mobileBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/task-management/busy-professional.jpg",
           "title": {
             "text": "Task Management for Work and Life",
             "color": "white",
