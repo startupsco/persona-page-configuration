@@ -9,7 +9,7 @@
         "type": "PersonaHero",
         "props": {
           "desktopBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/task-management/busy-professional.jpg",
-          "mobileBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_mobile_top_gradient.jpg",
+          "mobileBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/task-management/busy-professional.jpg",
           "title": {
             "text": "Task Management for Work and Life",
             "color": "white",
@@ -59,9 +59,9 @@
         "props": {
           "color": "blueBlack",
           "quote": {
-            "text": "A quote of a really happy persona claiming this was the best choice they ever made.",
+            "text": "Zirtual let me escape the trap of being busy and start achieving more than I thought possible in work AND life.",
             "size": "2xlarge",
-            "attribution": "Persona"
+            "attribution": "Jean R., Freelance Designer"
           }
         }
       },
@@ -112,6 +112,7 @@
                   "color": false,
                   "size": "3xlarge"
                 },
+                "spacer": 7,
                 "title": { "text": "Personal Assistance", "size": "3xsmall" },
                 "text": "Household tasks, vacation planning, and scheduling.",
                 "link": {
@@ -148,6 +149,7 @@
                   "color": false,
                   "size": "3xlarge"
                 },
+                "spacer": 7,
                 "title": { "text": "Scheduling", "size": "3xsmall" },
                 "text": "Manage appointments, meetings, and upcoming events.",
                 "link": {
@@ -213,6 +215,7 @@
                   "color": false,
                   "size": "3xlarge"
                 },
+                "spacer": 7,
                 "title": { "text": "Data Entry", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/data-entry-virtual-assistant"
@@ -224,6 +227,7 @@
                   "color": false,
                   "size": "3xlarge"
                 },
+                "spacer": 7,
                 "title": { "text": "Invoicing", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/business-invoices"
@@ -235,6 +239,7 @@
                   "color": false,
                   "size": "3xlarge"
                 },
+                "spacer": 7,
                 "title": {
                   "text": "Calendar & Task Management",
                   "size": "3xsmall"
@@ -246,6 +251,7 @@
                   "color": false,
                   "size": "3xlarge"
                 },
+                "spacer": 7,
                 "title": { "text": "Executive Assistance", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/virtual-admin-executive-assistant"
@@ -261,6 +267,7 @@
                     "width": "60px"
                   }
                 },
+                "spacer": 7,
                 "title": { "text": "Website Maintenance", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/ecommerce-outsource-virtual-assistant"
