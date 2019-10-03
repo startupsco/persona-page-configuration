@@ -100,7 +100,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Email Management", "size": "3xsmall" },
                 "text": "Organize and filter inboxes, create auto-responses and alerts.",
                 "link": {
@@ -113,7 +112,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Personal Assistance", "size": "3xsmall" },
                 "text": "Household tasks, vacation planning, and scheduling.",
                 "link": {
@@ -126,7 +124,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Social Media Strategy", "size": "3xsmall" },
                 "text": "Proofread and schedule posts, respond to comments, and interpret analytics.",
                 "link": {
@@ -139,7 +136,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Marketing", "size": "3xsmall" },
                 "text": "Send and monitor email campaigns, create surveys, and refresh blog posts.",
                 "link": {
@@ -152,7 +148,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Scheduling", "size": "3xsmall" },
                 "text": "Manage appointments, meetings, and upcoming events.",
                 "link": {
@@ -165,7 +160,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Event Planning", "size": "3xsmall" },
                 "text": "Research, book, and manage vendors, handle invitations and guest lists."
 
@@ -176,7 +170,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Travel Booking", "size": "3xsmall" },
                 "text": "Find deals, book hotels, flights, and cars, and organize itineraries.",
                 "link": {
@@ -189,7 +182,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Research", "size": "3xsmall" },
                 "text": "In-depth research for any project, event, or travel plans.",
                 "link": {
@@ -221,7 +213,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Data Entry", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/data-entry-virtual-assistant"
@@ -233,7 +224,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Invoicing", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/business-invoices"
@@ -245,7 +235,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": {
                   "text": "Calendar & Task Management",
                   "size": "3xsmall"
@@ -257,7 +246,6 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "spacer": 7,
                 "title": { "text": "Executive Assistance", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/virtual-admin-executive-assistant"
@@ -273,7 +261,6 @@
                     "width": "60px"
                   }
                 },
-                "spacer": 7,
                 "title": { "text": "Website Maintenance", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/ecommerce-outsource-virtual-assistant"
