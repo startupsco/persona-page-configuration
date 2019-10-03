@@ -1,30 +1,73 @@
 [
   {
     "page": {
-      "title": "What We Do: Virtual Personal Assistant",
+      "title": "What We Do",
       "slug": "/what-we-do/virtual-personal-assistant"
     },
     "blocks": [
       {
         "type": "PersonaHeroV2",
         "props": {
-          "responsiveLayout": {
+          "thresholdConfiguration": {
             "palm": {
+              "layout": "center",
               "background": {
-                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_mobile_top_gradient.jpg"
-              }
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/virtual-personal-assistant/vpa.jpg",
+                "size": "cover",
+                "position": "center",
+                "style": {
+                  "backgroundPosition": "center",
+                  "backgroundSize": "cover"
+                }
+              },
+              "ctas": [
+                {
+                  "style": {
+                    "marginRight": "5px",
+                    "width": "100%"
+                  }
+                },
+                {
+                  "style": {
+                    "marginLeft": 0,
+                    "marginTop": "1em",
+                    "borderColor": "#5DA2DF",
+                    "width": "calc(100% - 4px)"
+                  }
+                }
+              ]
             },
             "lap": {
               "background": {
                 "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/virtual-personal-assistant/vpa.jpg",
                 "size": "cover",
-                "position": "center"
+                "position": "center",
+                "style": {
+                  "backgroundPosition": "center",
+                  "backgroundSize": "cover"
+                }
               },
               "containerProps": {
                 "size": "4xlarge"
-              }
+              },
+              "ctas": [
+                {
+                  "style": {
+                    "marginRight": "5px",
+                    "width": 300
+                  }
+                },
+                {
+                  "style": {
+                    "borderColor": "#5DA2DF",
+                    "width": 300
+                  }
+                }
+              ]
             }
           },
+          "background": {},
+          "containerProps": {},
           "titles": [
             {
               "text": "Save Time.",
@@ -56,42 +99,13 @@
           "ctas": [
             {
               "color": "green",
-              "label": "Button",
-              "shape": "roundedRectangle",
-              "status": "default",
-              "size": "large",
-              "tag": "Link",
-              "tagProps": {},
               "to": "/plans-pricing",
-              "type": null,
-              "text": "See Plans",
-              "width": "auto",
-              "style": {
-                "marginRight": "5px",
-                "width": 300
-              }
+              "text": "See Plans"
             },
             {
               "color": "blueLightGhost",
-              "disabled": false,
-              "isFluid": false,
-              "label": "Button",
-              "margin": false,
-              "onClick": null,
-              "shape": "roundedRectangle",
-              "status": "default",
-              "size": "large",
-              "tag": "Link",
-              "tagProps": {},
               "to": "/request-a-consultation",
-              "text": "Free Consultation",
-              "type": null,
-              "width": "auto",
-              "style": {
-                "marginLeft": "5px",
-                "borderColor": "#5DA2DF",
-                "width": 300
-              }
+              "text": "Free Consultation"
             }
           ],
           "siteNav": {
@@ -268,6 +282,19 @@
         }
       },
       {
+        "type": "Divider",
+        "props": {
+          "backgroundColor": "white",
+          "color": "black",
+          "height": 1,
+          "opacity": 0.2,
+          "style": {
+            "maxWidth": "1170px",
+            "margin": "0 auto"
+          }
+        }
+      },
+      {
         "type": "FormWithImage",
         "props": {
           "color": "white",
@@ -288,35 +315,99 @@
         }
       },
       {
-        "type": "PersonaHero",
+        "type": "PersonaHeroV2",
         "props": {
           "showNav": false,
           "ctaAlignment": "center",
+          "backgroundAlignment": "center",
           "vanchor": "top",
           "layout": "center",
-          "desktopBackgroundImageUrl": "/persona/stop-being-busy.jpg",
-          "mobileBackgroundImageUrl": "/persona/stop-being-busy.jpg",
-          "title": {
-            "text": "Find the most qualified Zirtual Personal Assistant for your to-do list.",
-            "color": "white",
-            "padding": false,
-            "size": "large"
+          "background": {
+            "imageUrl": "/persona/stop-being-busy.jpg",
+            "style": {
+              "backgroundPosition": "center",
+              "backgroundSize": "cover"
+            }
           },
-          "subtitle": {
-            "text": "Pick Your Plan. Delegate Your Tasks. Get More Done.",
-            "color": "blueLight",
-            "padding": false,
-            "size": "xlarge"
-          },
-          "cta1": {
-            "text": "Get Started",
-            "color": "green",
-            "to": "#getStarted"
-          },
-          "cta2": {
-            "text": "Free Consultation",
-            "color": "blueLightGhost",
-            "to": "#freeConsultation"
+          "titles": [
+            {
+              "text": "Find the most qualified Zirtual Personal Assistant for your to-do list.",
+              "color": "white",
+              "padding": false,
+              "size": "large"
+            }
+          ],
+          "subtitles": [
+            {
+              "text": "Pick Your Plan. Delegate Your Tasks. Get More Done.",
+              "color": "blueLight",
+              "padding": false,
+              "size": "xlarge"
+            }
+          ],
+          "ctas": [
+            {
+              "text": "Get Started",
+              "color": "green",
+              "to": "#getStarted",
+              "style": {
+                "marginRight": "5px",
+                "width": 300
+              }
+            },
+            {
+              "text": "Free Consultation",
+              "color": "blueLightGhost",
+              "to": "#freeConsultation",
+              "style": {
+                "marginLeft": "5px",
+                "borderColor": "#5DA2DF",
+                "width": 300
+              }
+            }
+          ],
+          "thresholdConfiguration": {
+            "palm": {
+              "layout": "center",
+              "ctas": [
+                {
+                  "style": {
+                    "marginRight": "5px",
+                    "width": "100%"
+                  }
+                },
+                {
+                  "style": {
+                    "marginLeft": 0,
+                    "marginTop": "1em",
+                    "borderColor": "#5DA2DF",
+                    "width": "calc(100% - 4px)"
+                  }
+                }
+              ]
+            },
+            "lap": {
+              "layout": "center",
+
+              "containerProps": {
+                "size": "4xlarge"
+              },
+              "ctas": [
+                {
+                  "style": {
+                    "marginRight": "5px",
+                    "width": 300
+                  }
+                },
+                {
+                  "style": {
+                    "marginLeft": "5px",
+                    "borderColor": "#5DA2DF",
+                    "width": 300
+                  }
+                }
+              ]
+            }
           }
         }
       },
@@ -339,23 +430,56 @@
             "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/virtual-personal-assistant/coffeehouse-clipboard.jpg"
           },
           "ctaLeftAlign": true,
-          "cta1":   {
+          "cta1": {
             "text": "Free Consultation",
             "color": "green",
             "to": "/request-a-consultation",
-            "style": {
-              "width": 297
-            }
+            "style": {}
           },
           "cta2": {
-            "text": "Free Consultation",
+            "text": "See Our FAQs",
             "color": "blueLightGhost",
-            "to": "/request-a-consultation",
-            "style": {
-              "width": 235
+            "to": "/faqs",
+            "style": {}
+          },
+          "thresholdConfiguration": {
+            "palm": {
+              "cta1": {
+                "style": {
+                  "width": "100%"
+                }
+              },
+              "cta2": {
+                "style": {
+                  "width": "100%",
+                  "marginTop": "1em"
+                }
+              }
+            },
+            "hands2": {
+              "cta1": {
+                "style": {}
+              },
+              "cta2": {
+                "style": {}
+              }
             }
           }
-        }},
+        }
+      },
+      {
+        "type": "Divider",
+        "props": {
+          "backgroundColor": "blueDark",
+          "color": "white",
+          "height": 1,
+          "opacity": 0.2,
+          "style": {
+            "maxWidth": "1170px",
+            "margin": "0 auto"
+          }
+        }
+      },
       {
         "type": "QuotesAndLogos",
         "props": {
