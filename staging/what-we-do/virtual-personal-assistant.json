@@ -12,7 +12,13 @@
             "palm": {
               "layout": "center",
               "background": {
-                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/hero_bg_mobile_top_gradient.jpg"
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/virtual-personal-assistant/vpa.jpg",
+                "size": "cover",
+                "position": "center",
+                "style": {
+                  "backgroundPosition": "center",
+                  "backgroundSize": "cover"
+                }
               },
               "ctas": [
                 {
@@ -35,7 +41,11 @@
               "background": {
                 "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/virtual-personal-assistant/vpa.jpg",
                 "size": "cover",
-                "position": "center"
+                "position": "center",
+                "style": {
+                  "backgroundPosition": "center",
+                  "backgroundSize": "cover"
+                }
               },
               "containerProps": {
                 "size": "4xlarge"
@@ -272,6 +282,19 @@
         }
       },
       {
+        "type": "Divider",
+        "props": {
+          "backgroundColor": "white",
+          "color": "black",
+          "height": 1,
+          "opacity": 0.2,
+          "style": {
+            "maxWidth": "1170px",
+            "margin": "0 auto"
+          }
+        }
+      },
+      {
         "type": "FormWithImage",
         "props": {
           "color": "white",
@@ -441,6 +464,19 @@
                 "style": {}
               }
             }
+          }
+        }
+      },
+      {
+        "type": "Divider",
+        "props": {
+          "backgroundColor": "blueDark",
+          "color": "white",
+          "height": 1,
+          "opacity": 0.2,
+          "style": {
+            "maxWidth": "1170px",
+            "margin": "0 auto"
           }
         }
       },
