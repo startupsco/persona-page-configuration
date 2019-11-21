@@ -25,21 +25,13 @@
           "cta2": false,
           "siteNav": {
             "primaryItems": [
-              {
-                "type": "link",
-                "label": "What We Do",
-                "href": "/what-we-do"
-              },
+              { "type": "link", "label": "What We Do", "href": "/what-we-do" },
               {
                 "type": "link",
                 "label": "Why Zirtual?",
                 "href": "/why-zirtual"
               },
-              {
-                "type": "link",
-                "label": "FAQs",
-                "href": "/faqs"
-              }
+              { "type": "link", "label": "FAQs", "href": "/faqs" }
             ],
             "secondaryItemsLoggedOut": [
               {
@@ -55,16 +47,8 @@
               }
             ],
             "secondaryItemsLoggedIn": [
-              {
-                "type": "link",
-                "label": "My Account",
-                "href": "/account"
-              },
-              {
-                "type": "link",
-                "label": "Logout",
-                "href": "/logout"
-              }
+              { "type": "link", "label": "My Account", "href": "/account" },
+              { "type": "link", "label": "Logout", "href": "/logout" }
             ]
           },
           "layout": "center"
@@ -116,10 +100,8 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "title": {
-                  "text": "Email Management",
-                  "size": "3xsmall"
-                },
+                "spacer": 7,
+                "title": { "text": "Email Management", "size": "3xsmall" },
                 "text": "Organize and filter inboxes, create auto-responses and alerts.",
                 "link": {
                   "to": "/what-we-do/email-management-virtual-assistant"
@@ -131,10 +113,8 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "title": {
-                  "text": "Personal Assistance",
-                  "size": "3xsmall"
-                },
+                "spacer": 7,
+                "title": { "text": "Personal Assistance", "size": "3xsmall" },
                 "text": "Household tasks, vacation planning, and scheduling.",
                 "link": {
                   "to": "/what-we-do/virtual-personal-assistant"
@@ -146,10 +126,8 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "title": {
-                  "text": "Social Media Strategy",
-                  "size": "3xsmall"
-                },
+                "spacer": 7,
+                "title": { "text": "Social Media Strategy", "size": "3xsmall" },
                 "text": "Proofread and schedule posts, respond to comments, and interpret analytics.",
                 "link": {
                   "to": "/what-we-do/social-media-virtual-assistant"
@@ -161,10 +139,8 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "title": {
-                  "text": "Marketing",
-                  "size": "3xsmall"
-                },
+                "spacer": 7,
+                "title": { "text": "Marketing", "size": "3xsmall" },
                 "text": "Send and monitor email campaigns, create surveys, and refresh blog posts.",
                 "link": {
                   "to": "/what-we-do/boost-marketing-virtual-assistant"
@@ -176,10 +152,8 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "title": {
-                  "text": "Scheduling",
-                  "size": "3xsmall"
-                },
+                "spacer": 7,
+                "title": { "text": "Scheduling", "size": "3xsmall" },
                 "text": "Manage appointments, meetings, and upcoming events.",
                 "link": {
                   "to": "/what-we-do/virtual-scheduling-assistant"
@@ -191,11 +165,10 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "title": {
-                  "text": "Event Planning",
-                  "size": "3xsmall"
-                },
+                "spacer": 7,
+                "title": { "text": "Event Planning", "size": "3xsmall" },
                 "text": "Research, book, and manage vendors, handle invitations and guest lists."
+
               },
               {
                 "zIcon": {
@@ -203,10 +176,8 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "title": {
-                  "text": "Travel Booking",
-                  "size": "3xsmall"
-                },
+                "spacer": 7,
+                "title": { "text": "Travel Booking", "size": "3xsmall" },
                 "text": "Find deals, book hotels, flights, and cars, and organize itineraries.",
                 "link": {
                   "to": "/what-we-do/travel-planning"
@@ -218,27 +189,40 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "title": {
-                  "text": "Research",
-                  "size": "3xsmall"
-                },
+                "spacer": 7,
+                "title": { "text": "Research", "size": "3xsmall" },
                 "text": "In-depth research for any project, event, or travel plans.",
                 "link": {
                   "to": "/what-we-do/research"
                 }
+              }
+            ]
+          },
+          "secondaryFeatures": {
+            "component": "grid",
+            "heightAuto": true,
+            "cssGrid": {
+              "palm": {
+                "gridTemplateColumns": "1fr",
+                "width": "100%"
               },
+              "hands": {
+                "gridTemplateColumns": "1fr 1fr",
+                "width": "100%"
+              },
+              "lap": {
+                "gridTemplateColumns": "1fr 1fr 1.5fr 1fr 1fr"
+              }
+            },
+            "features": [
               {
                 "zIcon": {
                   "icon": "z-data-entry",
                   "color": false,
                   "size": "3xlarge"
                 },
-                "title": {
-                  "text": "Data Entry",
-                  "size": "3xsmall"
-                },
-                "text": "Verify, process, and transfer data in multiple files and formats.",
-
+                "spacer": 7,
+                "title": { "text": "Data Entry", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/data-entry-virtual-assistant"
                 }
@@ -249,14 +233,22 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "title": {
-                  "text": "Invoicing",
-                  "size": "3xsmall"
-                },
-                "text": "Process, issue, and track invoices for your business.",
-
+                "spacer": 7,
+                "title": { "text": "Invoicing", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/business-invoices"
+                }
+              },
+              {
+                "zIcon": {
+                  "icon": "z-checkmark-blue",
+                  "color": false,
+                  "size": "3xlarge"
+                },
+                "spacer": 7,
+                "title": {
+                  "text": "Calendar & Task Management",
+                  "size": "3xsmall"
                 }
               },
               {
@@ -265,12 +257,8 @@
                   "color": false,
                   "size": "3xlarge"
                 },
-                "text": "General task completion for busy executives & professionals.",
-
-                "title": {
-                  "text": "Executive Assistance",
-                  "size": "3xsmall"
-                },
+                "spacer": 7,
+                "title": { "text": "Executive Assistance", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/virtual-admin-executive-assistant"
                 }
@@ -285,23 +273,19 @@
                     "width": "60px"
                   }
                 },
-                "title": {
-                  "text": "Website Maintenance",
-                  "size": "3xsmall"
-                },
-                "text": "Update and manage websites through multiple CMS platforms.",
-
+                "spacer": 7,
+                "title": { "text": "Website Maintenance", "size": "3xsmall" },
                 "link": {
                   "to": "/what-we-do/ecommerce-outsource-virtual-assistant"
                 }
               }
             ]
           },
-
           "cta1": false,
           "cta2": false
         }
       },
+
       {
         "type": "FormWithImage",
         "props": {
@@ -309,6 +293,7 @@
           "heading": {
             "text": "Go from overwhelmed to organized."
           },
+
           "paragraph": "Zirtual Virtual Assistants remove the most time-consuming administrative tasks from your plate. Instead of trying to do it all yourself, you will have more time to close deals, explore business ventures, and grow your start-up. Not to mention more time to spend with your family.",
           "image": {
             "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/task-management/daily-planner.jpg"
@@ -339,7 +324,7 @@
                 "size": "2xsmall"
               },
               "subtitle": {
-                "text": "We match you with a Virtual Assistant based on your custom preferences.",
+                "text": "We match you with a Virtual Assistant based on your time zone and custom preferences.",
                 "color": "black",
                 "size": "medium"
               }
@@ -360,12 +345,12 @@
             {
               "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/goal_achieved.svg",
               "title": {
-                "text": "Accomplish More",
+                "text": "Persona Goal Achieved",
                 "color": "black",
                 "size": "2xsmall"
               },
               "subtitle": {
-                "text": "Directly work with your Virtual Assistant and start checking things off your list.",
+                "text": "Reach your Virtual Assistant through text or email and start checking things off your list.",
                 "color": "black",
                 "size": "medium"
               }
@@ -385,9 +370,7 @@
             "text": "Still have questions?",
             "size": "2xlarge",
             "alignX": "center",
-            "style": {
-              "fontWeight": "bold"
-            }
+            "style": { "fontWeight": "bold" }
           }
         }
       }
