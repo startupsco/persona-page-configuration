@@ -8,8 +8,8 @@
       {
         "type": "NonProfitHero",
         "props": {
-          "desktopBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/real-estate-agents/hero_bg_left_gradient.jpg",
-          "mobileBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/real-estate-agents/hero_bg_mobile_top_gradient.jpg",
+          "desktopBackgroundImageUrl": "https://d37szscqjmjaac.cloudfront.net/production/20200228-073727/media/images/lp/hero-wave.png",
+          "mobileBackgroundImageUrl": "https://d37szscqjmjaac.cloudfront.net/production/20200228-073727/media/images/lp/hero-wave.png",
           "title": {
             "text": "Grow donations. Grow capacity. Grow your mission.",
             "color": "white",
