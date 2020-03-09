@@ -1,0 +1,448 @@
+[
+  {
+    "page": {
+      "title": "Virtual Assistants for Non-profits",
+      "slug": "/who-we-serve/non-profits"
+    },
+    "blocks": [
+      {
+        "type": "NonProfitHero",
+        "props": {
+          "desktopBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/real-estate-agents/hero_bg_left_gradient.jpg",
+          "mobileBackgroundImageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/real-estate-agents/hero_bg_mobile_top_gradient.jpg",
+          "title": {
+            "text": "Grow donations. Grow capacity. Grow your mission.",
+            "color": "white",
+            "size": "large"
+          },
+          "subtitle": {
+            "text": "Our highly trained Virtual assistants help non profits grow and thrive.",
+            "color": "blueLight",
+            "size": "xlarge"
+          },
+          "cta1": {
+            "text": "Get Started Now!",
+            "color": "green",
+            "to": "/plans-pricing"
+          },
+          "cta2": {
+            "text": "Talk to our team.",
+            "color": "blueLightGhost",
+            "to": "/request-a-consultation"
+          }
+        }
+      },
+      {
+        "type": "HappyQuote",
+        "props": {
+          "color": "tan",
+          "quote": {
+            "text": "Abbey did everything from plan events, and researching vendor costs, to compiling expenses. I am amazed at what she was able to achieve in 24 hours a month.",
+            "color": "grayDark",
+            "size": "xlarge",
+            "attribution": "Jessica L. - Real Estate Agent"
+          }
+        }
+      },
+      {
+        "type": "BusyPersonas",
+        "props": {
+          "title": "We handle the administrative work, you focus on the mission.",
+          "subtitle": "As a non profit, you are naturally saddled with a tremendous amount of administrative tasks. It’s easy to get buried in email, planning and research. Learn how to use technology and resources to maximize your productivity.",
+          "color": "white",
+          "cards": [
+            {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/pick_your_plan.svg",
+              "title": {
+                "text": "Select Your Plan",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We'll match you with a US-based, tech-savvy point person who understands the pressures, challenges, and pitfalls of the non profit world.",
+                "color": "black",
+                "size": "medium"
+              }
+            },
+            {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/delegate_tasks.svg",
+              "title": {
+                "text": "Delegate Your Tasks",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "We’ll review your needs, systems, and preferences for Day 1 delegation to declutter your busy schedule.",
+                "color": "black",
+                "size": "medium"
+              }
+            },
+            {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/real-estate-agents/close-contracts.svg",
+              "title": {
+                "text": "Grow your non profit",
+                "color": "black",
+                "size": "2xsmall"
+              },
+              "subtitle": {
+                "text": "With experience in handling the micro tasks that affect focus and efficiency, our VAs will remove the obstacles that hamper your ability to sell homes.",
+                "color": "black",
+                "size": "medium"
+              }
+            }
+          ],
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "/plans-pricing"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "/request-a-consultation"
+          }
+        }
+      },
+      {
+        "type": "PersonaIsHard",
+        "props": {
+          "color": "blueBlack",
+          "backgroundImageUrl": null,
+          "backgroundSize": "cover",
+          "backgroundPosition": "50% 0",
+          "paragraph": [
+            {
+              "opacity": 1.0,
+              "text": "As you know, the nonprofit sector often suffers resource challenges. You are expected to perform and make an impact while working with smaller budgets and a volunteer workforce for your nonprofit.\n\n Every new hire a nonprofit makes requires the perfect alignment of budget and timing. However, work comes in waves, and often doesn’t align with resources. We can solve this problem.\n\n Instead of the vicious cycle of going from buried, to unburied, back to buried, let us help. Let us provide you with a cost effective output machine. Our VA’s are incredible. They are US based, college educated and often times have direct experience in your vertical. "
+            }
+          ],
+          "subtitle": {
+            "text": "Get the time you need to focus on strategy and growth.",
+            "color": "blueLight",
+            "size": "xlarge"
+          },
+          "title": "Stop working on tasks you don’t have to. ",
+          "quote": {
+            "opacity": 0.7,
+            "person": {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/barry.png",
+              "name": "Anne K.",
+              "title": "Health Care Nonprofit Director and Founder"
+            },
+            "text": "We never had enough hands. Things were constantly falling through the cracks. While everything was important - not everything needed to be on MY DESK. Enter Zirtual, enter peace of mind, enter completed task list. Life is good. We’re back to focusing on what’s important. We’re back to growing. We’re back to delivering on our mission.",
+            "size": "xlarge"
+          }
+        }
+      },
+      {
+        "type": "FavoriteFeature",
+        "props": {
+          "color": "tan",
+          "title": {
+            "text": "Our non profit specialists can Help with:"
+          },
+          "featuresLink": {
+            "text": "See all of our amazing features",
+            "color": "blue",
+            "href": "/what-we-do"
+          },
+          "primaryFeatures": {
+            "component": "card",
+            "heightAuto": true,
+            "grid": {
+              "lap": 3,
+              "hands2": 6,
+              "hands": 6
+            },
+            "features": [
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/administration.svg",
+                "title": { "text": "Administration", "size": "2xsmall" },
+                "text": "A defined scope of services that includes vendor cost comparison, expense reporting, maintaining certifications for compliance and more."
+              },
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/personal-assistant.svg",
+
+                "title": { "text": "Personal Assistance", "size": "2xsmall" },
+                "text": "Your life is hectic. A nonprofit specialist can help make sure that the office is full of caffeine, paper and chocolate. Consider us a virtual office manager."
+              },
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/email-mgmt.svg",
+
+                "title": { "text": "Email Management", "size": "2xsmall" },
+                "text": "Whether it’s vendors, donors, partners or funding agencies, we will assist in communication and contact hierarchy."
+              },
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/scheduling.svg",
+
+                "title": { "text": "Scheduling", "size": "2xsmall" },
+                "text": "You need a cheap space that serves vegan hotdogs with highway access and natural light? No problem. Let our team help book events and run your schedule.\n"
+              },
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/research.svg",
+
+                "title": { "text": "Research", "size": "2xsmall" },
+                "text": "We can help find the best prices. Identify new donors, or simply dig in further on your native cause. We love research.\n"
+              },
+              {
+                "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/icons/invoicing.svg",
+
+                "title": { "text": "Marketing", "size": "2xsmall" },
+                "text": "Let our VA’s help build your brand by managing your social media and growing your digital footprint. Social media presence is no longer a “nice to have” - its publish or perish.\n"
+              }
+            ]
+          },
+          "cta1": {
+            "text": "Get Started",
+            "color": "green",
+            "to": "/plans-pricing"
+          },
+          "cta2": {
+            "text": "Free Consultation",
+            "color": "blueGhost",
+            "to": "/request-a-consultation"
+          }
+        }
+      },
+      {
+        "type": "PerfectAssistants",
+        "props": {
+          "color": "tanDark",
+          "assistant1": {
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/elizabeth-martinez-card.png"
+          },
+          "assistant2": {
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/yasmine-davis-card.png"
+          },
+          "heading": {
+            "text": "Use Your Talent Where It Counts"
+          },
+          "bullets": {
+            "icon": {
+              "color": "bluePastel",
+              "shape": "ion-android-checkbox-outline",
+              "size": "3xsmall"
+            },
+            "items": [
+              "Our VAs are highly competent at the day-to-day administration of a nonprofit, as well as helping with donor outreach, social media, volunteer communications and more.",
+              "Don’t let voice messages and emails pile up! Have your Zirtual assistant check your messages regularly throughout the day.",
+              "A rigorous, multi-step vetting process ensures your Virtual Assistant has the skills to support you from the get-go, with no exhaustive training required.",
+              "US-based, college-educated, and native English speakers."
+            ]
+          },
+          "cta": {
+            "text": "Meet Your Assistant",
+            "color": "green",
+            "to": "/request-a-consultation"
+          }
+        }
+      },
+      {
+        "type": "TopFiveThings",
+        "props": {
+          "color": "white",
+          "heading": ".Org 2.0 The digital Evolution of the Non-Profit",
+          "subheading": "",
+          "paragraph": "Running a non-profit can be a tremendous challenge. Those who are deep in the planning and execution of campaigns understand the magnitude of their efforts – and the consequences of poor execution.\n\n Day in and day out, organizations are struggling to move the mission forward, encouraging their volunteers to raise donations and bring in more support. It’s an uphill battle, as evidenced by the steady decline in charitable giving since 2015, per the Blackbaud Index.\n\n Growing an organization in our digital age, when contributions are down, is a challenge that requires a more tactical approach than just marketing. It requires a complete audit of operational processes, while also looking at ways to streamline donor outreach.\n\n Because so much of what you do relies on volunteers, there will always be reliability issues that stunt the growth of your programs. It’s a challenge faced by even the most well-funded organizations.\n\n With a little guidance, a few tools, and the right people, you can correct those operational and outreach issues and continue focusing on growth.",
+          "ebook": {
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/real-estate-agents/Realtor-Ebook-graphic.png",
+
+            "form": "4d307345-231b-436e-b578-6aabc489bfb6"
+          },
+          "bullets": {
+            "icon": {
+              "color": "bluePastel",
+              "shape": "ion-android-checkbox-outline",
+              "size": "3xsmall"
+            },
+            "items": [
+              "How to Use Social Media to attract and Engage donors and supporters",
+              "How to leverage Email Marketing to Grow a Non-Profit",
+              "How to Use Modern Tools to Manage resources and volunteers",
+              "Growing a non-Profit in the Digital Age"
+            ]
+          }
+        }
+      },
+      {
+        "type": "FinalRequest",
+        "props": {
+          "color": "tan",
+          "title": "We Simplify Your Life. You Grow Your Mission.",
+          "containerWidth": "medium",
+          "maxWidth": null,
+          "paragraph": {
+            "text": "From coordinating events, comparing vendor prices to recruiting volunteers, you need to choose where to spend your precious time carefully. Our VA’s have years of experience in inbox management, scheduling, travel booking, event planning, expense reporting and other non-profit administration. Let Zirtual help you take your time back and spend it where it counts. "
+          },
+
+          "cta1": {
+            "text": "View Our Pricing Plans",
+            "color": "green",
+            "to": "/plans-pricing"
+          },
+          "cta2": {
+            "text": "Find Your Virtual Assistant",
+            "color": "blueGhost",
+            "to": "/request-a-consultation"
+          }
+        }
+      },
+      {
+        "type": "AlternatingQuoteStack",
+        "props": {
+          "valuePropositions": [
+            {
+              "title": "Don’t let Time Stop you from building a social presence. ",
+              "paragraph": [
+                {
+                  "opacity": 0.7,
+                  "text": "Social media is now a “must have”. Partners, volunteers and donors will use your social media presence to gauge your branded mission. The challenge is; social media requires time. Daily posting, social engagement and planning. With Zirtual you direct and let our VA’s execute."
+                }
+              ],
+              "quote": {
+                "opacity": 0.7,
+                "person": {
+                  "imageUrl": null,
+                  "name": "Mark M.",
+                  "title": "Non-profit Operations Coordinator"
+                },
+                "text": "\"We went from almost no social media presence to a thriving instagram and facebook presence. One of our largest sponsors actually came directly from a Facebook post.\"",
+                "size": "xlarge"
+              }
+            },
+            {
+              "title": "You Deserve A Break From Admin",
+              "paragraph": [
+                {
+                  "opacity": 0.7,
+                  "text": "Why carry the weight of repetitive administration alone? By delegating the smaller tasks to an experienced assistant, you’re able to pour your talent into what truly matters: growing your mission, building partner relationships and making an impact."
+                }
+              ],
+              "quote": {
+                "opacity": 0.7,
+                "person": {
+                  "imageUrl": null,
+
+                  "name": "Cara S.",
+                  "title": "Non-profit Director"
+                },
+                "text": "\"My default state went from joy to panic as our non profit started to grow. The constant struggle to keep up had me responding to emails until 9pm every night. After a while, something I cared so deeply about felt like a “job”. Now we have Kaitlyn. I still work incredibly hard, but just 36 hours of help a month feels like it’s given me a second wind. I can focus, and close my computer at the end of the day with no feelings of guilt.\"",
+
+                "size": "xlarge"
+              }
+            },
+            {
+              "title": "Simplify Your Workflow",
+              "paragraph": [
+                {
+                  "opacity": 0.7,
+                  "text": "Whether it’s cost comparison research, or expense reporting, an efficient, attentive Virtual Assistant will give you the time you need to ensure it’s done right."
+                }
+              ],
+              "quote": {
+                "opacity": 0.7,
+                "person": {
+                  "imageUrl": null,
+
+                  "name": "Tracy D.",
+                  "title": "Non Profit director"
+                },
+                "text": "\"I bet I spent 20 hours a week just on research and reporting. As a non profit it’s incredibly important that we have every cost accounted for and provide the research to back that funds are spent with maximum efficiency. Now I spend 4 hours a week on research. It’s like I got two full days back.\"",
+
+                "size": "xlarge"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "type": "FinalRequest",
+        "props": {
+          "color": "white",
+          "title": "Zirtual Is Here To Help",
+          "subtitle": {
+            "text": "With a personal assistant who understands the pressures and challenges of running a Non-Profit.",
+            "size": "xlarge",
+            "color": "grayDark"
+          },
+          "paragraph": {
+            "text": "Zirtual has a wealth of experience in the industry and a proven track record of helping over 900 Non-Profits supercharge their productivity. Our skilled Virtual Assistants are qualified to take on the micro tasks that hamper your ability to focus on growth. Take time management to new levels of productivity with a Zirtual VA.",
+            "size": "xlarge",
+            "color": "grayDark"
+          }
+        }
+      },
+      {
+        "type": "SideBySideCTA",
+        "props": {
+          "block1": {
+            "color": "#3b79bf",
+            "heading": {
+              "text": "Plans & Pricing",
+              "color": "white"
+            },
+            "subtitle": {
+              "text": "Find the package that’s perfect for your process.",
+              "color": "white",
+              "size": "xlarge",
+              "style": {
+                "color": "#c2e1ff"
+              }
+            },
+            "cta": {
+              "text": "Pick Your Plan",
+              "color": "green",
+              "to": "/plans-pricing"
+            },
+            "bullets": {
+              "color": "white",
+              "icon": {
+                "color": "white",
+                "shape": "ion-android-checkbox-outline",
+                "size": "3xsmall"
+              },
+              "items": [
+                "Small task work to keep on top of things.",
+                "Project work that goes beyond inbox and scheduling.",
+                "Part-time assistance just shy of a full-time employee.",
+                "A Virtual Assistant adept at handling demanding workloads."
+              ]
+            }
+          },
+          "block2": {
+            "color": "#c2e1ff",
+            "heading": {
+              "text": "Book a Consultation",
+              "color": "blue"
+            },
+            "subtitle": {
+              "text": "Take action by chatting to a Zirtual specialist about your options.",
+              "color": "blue",
+              "opacity": 0.7,
+              "size": "xlarge"
+            },
+            "cta": {
+              "text": "Schedule Now",
+              "color": "blue",
+              "to": "/request-a-consultation"
+            },
+            "bullets": {
+              "color": "blue",
+              "icon": {
+                "color": "blue",
+                "shape": "ion-android-checkbox-outline",
+                "size": "3xsmall"
+              },
+              "items": [
+                "Find the ideal package for your daily operations.",
+                "Be introduced to your personal Virtual Assistant.",
+                "Simplify your life through delegation.",
+                "Grow your donations. Grow your capacity. Grow your impact."
+              ]
+            }
+          }
+        }
+      }
+    ]
+  }
+]
