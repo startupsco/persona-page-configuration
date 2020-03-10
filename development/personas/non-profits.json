@@ -114,7 +114,15 @@
           "paragraph": [
             {
               "opacity": 1.0,
-              "text": ["As you know, the nonprofit sector often suffers resource challenges. You are expected to perform and make an impact while working with smaller budgets and a volunteer workforce for your nonprofit.","Every new hire a nonprofit makes requires the perfect alignment of budget and timing. However, work comes in waves, and often doesn’t align with resources. We can solve this problem.","Instead of the vicious cycle of going from buried, to unburied, back to buried, let us help. Let us provide you with a cost effective output machine. Our VA’s are incredible. They are US based, college educated and often times have direct experience in your vertical. "]
+              "text": ["As you know, the nonprofit sector often suffers resource challenges. You are expected to perform and make an impact while working with smaller budgets and a volunteer workforce for your nonprofit."]
+            },
+              {
+              "opacity": 1.0,
+              "text": ["Every new hire a nonprofit makes requires the perfect alignment of budget and timing. However, work comes in waves, and often doesn’t align with resources. We can solve this problem."]
+            },
+              {
+              "opacity": 1.0,
+              "text": ["Instead of the vicious cycle of going from buried, to unburied, back to buried, let us help. Let us provide you with a cost effective output machine. Our VA’s are incredible. They are US based, college educated and often times have direct experience in your vertical. "]
             }
           ],
           "subtitle": {
