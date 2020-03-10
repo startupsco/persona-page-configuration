@@ -8,6 +8,7 @@
       {
         "type": "NonProfitHero",
         "props": {
+          "videoUrl": "https://vimeo.com/385395685",
           "desktopBackgroundImageUrl": "https://d37szscqjmjaac.cloudfront.net/production/20200228-073727/media/images/lp/hero-wave.png",
           "mobileBackgroundImageUrl": "https://d37szscqjmjaac.cloudfront.net/production/20200228-073727/media/images/lp/hero-wave.png",
           "title": {
@@ -113,7 +114,15 @@
           "paragraph": [
             {
               "opacity": 1.0,
-              "text": "As you know, the nonprofit sector often suffers resource challenges. You are expected to perform and make an impact while working with smaller budgets and a volunteer workforce for your nonprofit.\n\n Every new hire a nonprofit makes requires the perfect alignment of budget and timing. However, work comes in waves, and often doesn’t align with resources. We can solve this problem.\n\n Instead of the vicious cycle of going from buried, to unburied, back to buried, let us help. Let us provide you with a cost effective output machine. Our VA’s are incredible. They are US based, college educated and often times have direct experience in your vertical. "
+              "text": ["As you know, the nonprofit sector often suffers resource challenges. You are expected to perform and make an impact while working with smaller budgets and a volunteer workforce for your nonprofit."]
+            },
+              {
+              "opacity": 1.0,
+              "text": ["Every new hire a nonprofit makes requires the perfect alignment of budget and timing. However, work comes in waves, and often doesn’t align with resources. We can solve this problem."]
+            },
+              {
+              "opacity": 1.0,
+              "text": ["Instead of the vicious cycle of going from buried, to unburied, back to buried, let us help. Let us provide you with a cost effective output machine. Our VA’s are incredible. They are US based, college educated and often times have direct experience in your vertical. "]
             }
           ],
           "subtitle": {
@@ -243,7 +252,8 @@
           "color": "white",
           "heading": ".Org 2.0 The digital Evolution of the Non-Profit",
           "subheading": "",
-          "paragraph": "Running a non-profit can be a tremendous challenge. Those who are deep in the planning and execution of campaigns understand the magnitude of their efforts – and the consequences of poor execution.\n\n Day in and day out, organizations are struggling to move the mission forward, encouraging their volunteers to raise donations and bring in more support. It’s an uphill battle, as evidenced by the steady decline in charitable giving since 2015, per the Blackbaud Index.\n\n Growing an organization in our digital age, when contributions are down, is a challenge that requires a more tactical approach than just marketing. It requires a complete audit of operational processes, while also looking at ways to streamline donor outreach.\n\n Because so much of what you do relies on volunteers, there will always be reliability issues that stunt the growth of your programs. It’s a challenge faced by even the most well-funded organizations.\n\n With a little guidance, a few tools, and the right people, you can correct those operational and outreach issues and continue focusing on growth.",
+          "isHTML": true,
+          "paragraph": "Running a non-profit can be a tremendous challenge. Those who are deep in the planning and execution of campaigns understand the magnitude of their efforts – and the consequences of poor execution.<br/><br/> Day in and day out, organizations are struggling to move the mission forward, encouraging their volunteers to raise donations and bring in more support. It’s an uphill battle, as evidenced by the steady decline in charitable giving since 2015, per the Blackbaud Index.<br/><br/> Growing an organization in our digital age, when contributions are down, is a challenge that requires a more tactical approach than just marketing. It requires a complete audit of operational processes, while also looking at ways to streamline donor outreach.<br/><br/> Because so much of what you do relies on volunteers, there will always be reliability issues that stunt the growth of your programs. It’s a challenge faced by even the most well-funded organizations.<br/><br/> With a little guidance, a few tools, and the right people, you can correct those operational and outreach issues and continue focusing on growth.",
           "ebook": {
             "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/real-estate-agents/Realtor-Ebook-graphic.png",
 
