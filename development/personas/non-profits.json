@@ -8,7 +8,7 @@
       {
         "type": "NonProfitHero",
         "props": {
-          "videoUrl": "https://vimeo.com/385395685",
+          "videoUrl": "https://vimeo.com/390534448",
           "desktopBackgroundImageUrl": "https://d37szscqjmjaac.cloudfront.net/production/20200228-073727/media/images/lp/hero-wave.png",
           "mobileBackgroundImageUrl": "https://d37szscqjmjaac.cloudfront.net/production/20200228-073727/media/images/lp/hero-wave.png",
           "title": {
@@ -41,7 +41,7 @@
             "text": "Abbey did everything from plan events, and researching vendor costs, to compiling expenses. I am amazed at what she was able to achieve in 24 hours a month.",
             "color": "grayDark",
             "size": "xlarge",
-            "attribution": "Jessica L. - Real Estate Agent"
+            "attribution": "Jessica L. - Non Profit Director"
           }
         }
       },
@@ -86,7 +86,7 @@
                 "size": "2xsmall"
               },
               "subtitle": {
-                "text": "With experience in handling the micro tasks that affect focus and efficiency, our VAs will remove the obstacles that hamper your ability to sell homes.",
+                "text": "With experience in handling the micro tasks that affect focus and efficiency, our VAs will remove the obstacles that hamper your ability to grow your impact.",
                 "color": "black",
                 "size": "medium"
               }
@@ -134,7 +134,7 @@
           "quote": {
             "opacity": 0.7,
             "person": {
-              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/vc/barry.png",
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/non-profit/anne-k.png",
               "name": "Anne K.",
               "title": "Health Care Nonprofit Director and Founder"
             },
@@ -255,9 +255,9 @@
           "isHTML": true,
           "paragraph": "Running a non-profit can be a tremendous challenge. Those who are deep in the planning and execution of campaigns understand the magnitude of their efforts – and the consequences of poor execution.<br/><br/> Day in and day out, organizations are struggling to move the mission forward, encouraging their volunteers to raise donations and bring in more support. It’s an uphill battle, as evidenced by the steady decline in charitable giving since 2015, per the Blackbaud Index.<br/><br/> Growing an organization in our digital age, when contributions are down, is a challenge that requires a more tactical approach than just marketing. It requires a complete audit of operational processes, while also looking at ways to streamline donor outreach.<br/><br/> Because so much of what you do relies on volunteers, there will always be reliability issues that stunt the growth of your programs. It’s a challenge faced by even the most well-funded organizations.<br/><br/> With a little guidance, a few tools, and the right people, you can correct those operational and outreach issues and continue focusing on growth.",
           "ebook": {
-            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/real-estate-agents/Realtor-Ebook-graphic.png",
+            "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/non-profit/nonprofit-ebook-graphic.jpg",
 
-            "form": "4d307345-231b-436e-b578-6aabc489bfb6"
+            "form": "8fdbed6d-3f6e-458f-a140-317967929ccd"
           },
           "bullets": {
             "icon": {
