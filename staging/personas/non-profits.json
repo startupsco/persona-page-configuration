@@ -134,6 +134,7 @@
           "quote": {
             "opacity": 0.7,
             "person": {
+              "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/non-profit/anne-k.png",
               "name": "Anne K.",
               "title": "Health Care Nonprofit Director and Founder"
             },
