@@ -48,9 +48,7 @@
         "type": "BusyPersonas",
         "props": {
           "title": "Take Administration out of the Home Sale Equation",
-          "subtitle":"We deal with the important smaller tasks so you to secure high-value properties, close more contracts, and grow your career. All you need to do is:",
-
-
+          "subtitle": "We deal with the important smaller tasks so you to secure high-value properties, close more contracts, and grow your career. All you need to do is:",
 
           "color": "white",
           "cards": [
@@ -63,7 +61,6 @@
               },
               "subtitle": {
                 "text": "We'll match you with a US-based, tech-savvy point person who understands the pressures, challenges, and pitfalls of the property market.",
-
 
                 "color": "black",
                 "size": "medium"
@@ -251,8 +248,8 @@
           "paragraph": "Real estate has always been a competitive, fast-paced industry, but digital technology, online platforms, and rising interest rates are changing the game. From networking in the age of social media to building an online persona that’s attractive to both buyers and sellers, Zirtual’s new eBook will help you navigate real estate’s brave new digital world:",
           "ebook": {
             "imageUrl": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/real-estate-agents/Realtor-Ebook-graphic.png",
-
-            "form": "4d307345-231b-436e-b578-6aabc489bfb6"
+            "form": "0169b3d0-2677-492c-a26e-65da68a487b8",
+            "successLink": "https://s3.amazonaws.com/app-assets.zirtual.com/static-images/persona/real-estate-agents/Zirtual+Realtor+Ebook-+Free+up+time.+Sell+more+homes.pdf"
           },
           "bullets": {
             "icon": {
@@ -330,7 +327,6 @@
                 "person": {
                   "imageUrl": null,
 
-
                   "name": "Valeria",
                   "title": "Real Estate Broker"
                 },
@@ -351,7 +347,6 @@
                 "opacity": 0.7,
                 "person": {
                   "imageUrl": null,
-
 
                   "name": "Sammi P.",
                   "title": " Real Estate Agent"
